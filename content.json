@@ -62,7 +62,15 @@
       {
         "name": "Graphed",
         "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona gráficos matemáticos directamente en tu dispositivo.",
-        "tag": "Android"
+        "tags": [{ "label": "Android" }]
+      },
+      {
+        "name": "CSUBA",
+        "text": "Plataforma para gestionar y seguir subastas de forma ágil, disponible como aplicación web y app Android nativa.",
+        "tags": [
+          { "label": "Web", "href": "https://csuba.rasgomedia.es" },
+          { "label": "Android", "href": "https://play.google.com/store/apps/developer?id=RasgoMedia" }
+        ]
       }
     ]
   },

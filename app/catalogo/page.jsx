@@ -31,9 +31,28 @@ export default function CatalogoPage() {
               <p className="text-sm text-muted-foreground leading-relaxed mb-4">
                 {project.text}
               </p>
-              <span className="inline-block bg-primary text-white text-xs font-semibold px-3 py-1 rounded-full">
-                {project.tag}
-              </span>
+              <div className="flex flex-wrap gap-2">
+                {project.tags.map((tag) =>
+                  tag.href ? (
+                    <a
+                      key={tag.label}
+                      href={tag.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-block bg-primary text-white text-xs font-semibold px-3 py-1 rounded-full hover:opacity-90 transition-opacity"
+                    >
+                      {tag.label}
+                    </a>
+                  ) : (
+                    <span
+                      key={tag.label}
+                      className="inline-block bg-primary text-white text-xs font-semibold px-3 py-1 rounded-full"
+                    >
+                      {tag.label}
+                    </span>
+                  )
+                )}
+              </div>
             </div>
           ))}
         </div>
