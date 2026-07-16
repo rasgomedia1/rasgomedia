@@ -1,0 +1,144 @@
+{
+  "site": {
+    "name": "Rasgo Media",
+    "domain": "rasgomedia.es",
+    "url": "https://rasgomedia.es",
+    "email": "hola@rasgomedia.es",
+    "logoAlt": "Rasgo Media",
+    "copyright": "© 2026 Rasgo Media · rasgomedia.es"
+  },
+  "nav": [
+    { "label": "Inicio", "href": "/" },
+    { "label": "Catálogo", "href": "/catalogo" },
+    { "label": "Contacto", "href": "/contacto" },
+    { "label": "Privacidad", "href": "/privacidad" }
+  ],
+  "home": {
+    "meta": {
+      "title": "Rasgo Media — Desarrollo de Apps | rasgomedia.es",
+      "description": "Desarrollamos apps iOS, Android y web a medida para empresas y startups. Código limpio, entrega en plazo, comunicación directa.",
+      "ogTitle": "Rasgo Media — Desarrollo de Apps",
+      "ogDescription": "Apps iOS, Android y web a medida. Startups y empresas."
+    },
+    "hero": {
+      "titleLine1": "Tu app, desde la idea",
+      "titleLine2": "hasta el lanzamiento.",
+      "subtitle": "Desarrollamos aplicaciones iOS, Android y web a medida. Sin rodeos, sin sorpresas. Solo resultados.",
+      "cta": "Cuéntanos tu proyecto"
+    },
+    "services": {
+      "heading": "Qué hacemos",
+      "subheading": "Desarrollo de producto digital de principio a fin.",
+      "items": [
+        { "title": "Apps iOS", "text": "Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.", "variant": "primary" },
+        { "title": "Apps Android", "text": "Desarrollo nativo para el ecosistema Android. Compatibilidad total con el mercado.", "variant": "accent" },
+        { "title": "Apps Web", "text": "Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.", "variant": "muted" },
+        { "title": "Consultoría", "text": "Definimos contigo la arquitectura, tecnología y hoja de ruta de tu producto digital.", "variant": "dark" }
+      ]
+    },
+    "why": {
+      "heading": "Por qué Rasgo Media",
+      "items": [
+        { "num": "01", "title": "Entrega en plazo", "text": "Metodología ágil con sprints cortos. Sabes en todo momento en qué punto está tu proyecto." },
+        { "num": "02", "title": "Código limpio y escalable", "text": "Arquitecturas pensadas para crecer. Sin deuda técnica que frene tu negocio." },
+        { "num": "03", "title": "Comunicación directa", "text": "Un interlocutor único. Sin intermediarios, sin malentendidos." }
+      ]
+    },
+    "finalCta": {
+      "heading": "¿Tienes un proyecto en mente?",
+      "text": "Escríbenos. Respondemos en menos de 24 horas.",
+      "button": "Contactar ahora"
+    }
+  },
+  "catalogo": {
+    "meta": {
+      "title": "Catálogo de Apps — Rasgo Media",
+      "description": "Proyectos desarrollados por Rasgo Media: apps iOS, Android y web para distintos sectores.",
+      "ogTitle": "Catálogo de Apps — Rasgo Media"
+    },
+    "heading": "Catálogo de apps",
+    "subheading": "Una selección de proyectos desarrollados por Rasgo Media.",
+    "projects": [
+      {
+        "name": "Graphed",
+        "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona gráficos matemáticos directamente en tu dispositivo.",
+        "tag": "Android"
+      }
+    ]
+  },
+  "contacto": {
+    "meta": {
+      "title": "Contacto — Rasgo Media",
+      "description": "Escríbenos y cuéntanos tu proyecto. Respondemos en menos de 24 horas.",
+      "ogTitle": "Contacto — Rasgo Media"
+    },
+    "heading": "Contacto",
+    "subheading": "Cuéntanos tu idea o proyecto. Sin compromiso. Respondemos en menos de 24 horas.",
+    "form": {
+      "nombreLabel": "Nombre",
+      "nombrePlaceholder": "Tu nombre",
+      "emailLabel": "Email",
+      "emailPlaceholder": "tu@email.com",
+      "mensajeLabel": "Mensaje",
+      "mensajePlaceholder": "Cuéntanos tu proyecto...",
+      "mensajeMax": 500,
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "successTitle": "¡Mensaje preparado!",
+      "successText": "Se ha abierto tu cliente de correo con el mensaje listo para enviar. Si no se abrió, escríbenos directamente a hola@rasgomedia.es.",
+      "errorText": "Ha ocurrido un error. Escríbenos directamente a hola@rasgomedia.es."
+    },
+    "directLabel": "También puedes escribirnos directamente:"
+  },
+  "privacidad": {
+    "meta": {
+      "title": "Política de Privacidad — Rasgo Media",
+      "description": "Política de privacidad de Graphed, desarrollado por RasgoMedia. Información sobre el tratamiento de datos personales."
+    },
+    "heading": "Política de Privacidad — Graphed",
+    "updated": "Última actualización: 2 de julio de 2026",
+    "sections": [
+      {
+        "h2": "1. Información General",
+        "body": "<p class=\"mb-3\">Graphed es una aplicación móvil interactiva para crear y gestionar gráficos matemáticos. Esta política de privacidad explica cómo tratamos tus datos personales.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> RasgoMedia</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+      },
+      {
+        "h2": "2. Datos que Recopilamos",
+        "body": "<h3 class=\"font-semibold mb-2\">2.1 Datos Locales (SQLite)</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Gráficos creados:</span> nombres, variables, puntos de datos (x, y)</li><li><span class=\"font-semibold text-foreground\">Configuración de la aplicación:</span> preferencias de usuario</li><li><span class=\"font-semibold text-foreground\">Historial de gráficos:</span> información sobre gráficos anteriores</li></ul><p class=\"text-muted-foreground mb-4\"><span class=\"font-semibold text-foreground\">Almacenamiento:</span> Todos estos datos se guardan <strong>exclusivamente en tu dispositivo</strong> en una base de datos SQLite local. No se envían a nuestros servidores.</p><h3 class=\"font-semibold mb-2\">2.2 Datos de Navegación</h3><p class=\"text-muted-foreground mb-4\">Cuando usas el link &quot;By RasgoMedia&quot; para abrir https://rasgomedia.es/, se abre tu navegador predeterminado. No recopilamos información sobre estas visitas.</p><h3 class=\"font-semibold mb-2\">2.3 Datos de Compartir</h3><p class=\"text-muted-foreground\">Cuando compartes un gráfico usando la función &quot;Compartir&quot;, la aplicación genera una imagen PNG que se envía a través de la app que elijas (WhatsApp, Gmail, etc.). RasgoMedia no recibe copias de estos datos.</p>"
+      },
+      {
+        "h2": "3. Permisos de la Aplicación",
+        "body": "<h3 class=\"font-semibold mb-2\">3.1 Permisos Utilizados</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-4\"><li><span class=\"font-semibold text-foreground\">Acceso a almacenamiento local:</span> Para guardar y recuperar gráficos en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Acceso a Internet:</span> Para abrir enlaces web (política de privacidad, sitio web)</li><li><span class=\"font-semibold text-foreground\">Capacidad de compartir:</span> Para permitirte compartir gráficos con otras aplicaciones</li></ul><h3 class=\"font-semibold mb-2\">3.2 Permisos NO Utilizados</h3><p class=\"text-muted-foreground mb-2\">Graphed <strong>NO solicita</strong> ni utiliza:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceso a micrófono</li><li>Acceso a cámara</li><li>Acceso a contactos</li><li>Acceso a ubicación</li><li>Acceso a fotos (excepto para compartir)</li></ul>"
+      },
+      {
+        "h2": "4. Política de Cookies y Rastreo",
+        "body": "<p class=\"text-muted-foreground\">Graphed <strong>no utiliza cookies</strong> ni tecnologías de rastreo. No recopilamos datos de comportamiento ni de navegación dentro de la app.</p>"
+      },
+      {
+        "h2": "5. Cómo Protegemos Tus Datos",
+        "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Almacenamiento local:</span> Todos tus gráficos se almacenan solo en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Sin servidor:</span> No transmitimos datos personales a servidores externos</li><li><span class=\"font-semibold text-foreground\">Sin analítica:</span> No usamos herramientas de análisis que recopilen datos de uso</li></ol>"
+      },
+      {
+        "h2": "6. Retención de Datos",
+        "body": "<p class=\"text-muted-foreground\">Los datos en Graphed se conservan mientras la aplicación esté instalada en tu dispositivo. Cuando desinstales la app, todos los datos locales se eliminan automáticamente.</p>"
+      },
+      {
+        "h2": "7. Derechos del Usuario",
+        "body": "<p class=\"text-muted-foreground mb-2\"><strong>Tienes derecho a:</strong></p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceder a tus datos (están en tu dispositivo)</li><li>Modificar tus datos (edita tus gráficos)</li><li>Eliminar tus datos (desinstala la app o elimina gráficos individuales)</li><li>Exportar tus datos (comparte gráficos como imágenes)</li></ul>"
+      },
+      {
+        "h2": "8. Cambios a Esta Política",
+        "body": "<p class=\"text-muted-foreground\">Nos reservamos el derecho de actualizar esta política de privacidad. Te notificaremos de cambios significativos a través de actualizaciones de la aplicación.</p>"
+      },
+      {
+        "h2": "9. Contacto",
+        "body": "<p class=\"text-muted-foreground mb-2\">Si tienes preguntas sobre esta política de privacidad:</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+      },
+      {
+        "h2": "10. Cumplimiento Legal",
+        "body": "<p class=\"text-muted-foreground mb-2\">Esta aplicación cumple con:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">RGPD (Reglamento General de Protección de Datos)</span> — UE</li><li>Leyes españolas de protección de datos</li><li>Google Play Store policies</li></ul>"
+      }
+    ],
+    "footerNote": "Graphed. Desarrollado por RasgoMedia."
+  }
+}
