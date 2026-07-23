@@ -4,23 +4,32 @@ import { useState } from "react";
 import content from "../content.json";
 
 const f = content.contacto.form;
-const email = content.site.email;
 
 export default function ContactForm() {
   const [nombre, setNombre] = useState("");
   const [correo, setCorreo] = useState("");
   const [mensaje, setMensaje] = useState("");
   const [sent, setSent] = useState(false);
+  const [sending, setSending] = useState(false);
+  const [error, setError] = useState(false);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    const subject = `Nuevo proyecto — ${nombre}`;
-    const body = `Nombre: ${nombre}\nEmail: ${correo}\n\n${mensaje}`;
-    const mailto = `mailto:${email}?subject=${encodeURIComponent(
-      subject
-    )}&body=${encodeURIComponent(body)}`;
-    window.location.href = mailto;
-    setSent(true);
+    setSending(true);
+    setError(false);
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ nombre, correo, mensaje }),
+      });
+      if (!res.ok) throw new Error("send_failed");
+      setSent(true);
+    } catch {
+      setError(true);
+    } finally {
+      setSending(false);
+    }
   };
 
   if (sent) {
@@ -91,11 +100,17 @@ export default function ContactForm() {
           className="w-full border border-border rounded-md px-4 py-2.5 text-sm text-foreground bg-white focus:outline-none focus:ring-2 focus:ring-primary resize-none"
         />
       </div>
+      {error && (
+        <p className="text-sm text-red-600" role="alert">
+          {f.errorText}
+        </p>
+      )}
       <button
         type="submit"
+        disabled={sending}
         className="bg-primary text-white font-semibold px-8 py-3 rounded-md disabled:opacity-60 hover:opacity-90 transition-opacity"
       >
-        {f.submit}
+        {sending ? f.submitting : f.submit}
       </button>
     </form>
   );

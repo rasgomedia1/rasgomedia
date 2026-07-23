@@ -62,15 +62,47 @@
       {
         "name": "Graphed",
         "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona gráficos matemáticos directamente en tu dispositivo.",
+        "image": "/catalogo/graphed.png",
+        "variant": "primary",
         "tags": [{ "label": "Android" }]
       },
       {
         "name": "CSUBA",
         "text": "Plataforma para gestionar y seguir subastas de forma ágil, disponible como aplicación web y app Android nativa.",
+        "image": "/catalogo/csuba.jpg",
+        "variant": "accent",
         "tags": [
           { "label": "Web", "href": "https://csuba.rasgomedia.es" },
           { "label": "Android", "href": "https://play.google.com/store/apps/developer?id=RasgoMedia" }
         ]
+      },
+      {
+        "name": "Ponte",
+        "text": "App de citas con geolocalización. Encuentra y conecta con personas cerca de ti de forma sencilla y directa.",
+        "image": "/catalogo/ponte.jpg",
+        "variant": "dark",
+        "tags": [{ "label": "Web", "href": "https://ponte1.es" }]
+      },
+      {
+        "name": "Khome",
+        "text": "Catálogo de mini-casas económicas: explora modelos, sigue el montaje y gestiona tu compra, todo en un solo lugar.",
+        "image": "/catalogo/khome.jpeg",
+        "variant": "muted",
+        "tags": [{ "label": "Web", "href": "https://khome.es" }]
+      },
+      {
+        "name": "Jobsi",
+        "text": "Buscador de empleo inteligente que rankea las ofertas según tu perfil de skills, sin gastar créditos de más en cada búsqueda.",
+        "image": "/catalogo/jobsi.jpeg",
+        "variant": "primary",
+        "tags": [{ "label": "Web", "href": "https://jobsi.rasgomedia.es" }]
+      },
+      {
+        "name": "Lando",
+        "text": "Buscador de propiedades con filtros avanzados: provincia, precio, distancia al mar y clima, en toda España.",
+        "image": "/catalogo/lando.jpeg",
+        "variant": "accent",
+        "tags": [{ "label": "Web", "href": "https://lando.rasgomedia.es" }]
       }
     ]
   },
@@ -92,9 +124,9 @@
       "mensajeMax": 500,
       "submit": "Enviar mensaje",
       "submitting": "Enviando...",
-      "successTitle": "¡Mensaje preparado!",
-      "successText": "Se ha abierto tu cliente de correo con el mensaje listo para enviar. Si no se abrió, escríbenos directamente a hola@rasgomedia.es.",
-      "errorText": "Ha ocurrido un error. Escríbenos directamente a hola@rasgomedia.es."
+      "successTitle": "¡Mensaje enviado!",
+      "successText": "Hemos recibido tu mensaje. Te responderemos en menos de 24 horas.",
+      "errorText": "Ha ocurrido un error al enviar el mensaje. Escríbenos directamente a hola@rasgomedia.es."
     },
     "directLabel": "También puedes escribirnos directamente:"
   },
