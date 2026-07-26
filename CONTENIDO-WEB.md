@@ -39,14 +39,14 @@ el content.json con estos cambios"). Las dos excepciones son:
 
 **Meta / SEO**
 - Título: Rasgo Media — Desarrollo de Apps | rasgomedia.es
-- Descripción: Desarrollamos apps iOS, Android y web a medida para empresas y startups. Código limpio, entrega en plazo, comunicación directa.
+- Descripción: Desarrollamos apps efectivas para iOS, Android y web a medida para empresas y particulares. Código limpio, entrega en plazo, comunicación directa.
 - Título Open Graph: Rasgo Media — Desarrollo de Apps
-- Descripción Open Graph: Apps iOS, Android y web a medida. Startups y empresas.
+- Descripción Open Graph: Apps iOS, Android y web a medida. Particulares y empresas.
 
 **Hero**
 - Título (línea 1): Tu app, desde la idea
 - Título (línea 2): hasta el lanzamiento.
-- Subtítulo: Desarrollamos aplicaciones iOS, Android y web a medida. Sin rodeos, sin sorpresas. Solo resultados.
+- Subtítulo: Desarrollamos aplicaciones iOS, Android y web a medida. Resultados sencillos y efectivos.
 - Botón: Cuéntanos tu proyecto
 
 **Qué hacemos**
@@ -56,13 +56,13 @@ el content.json con estos cambios"). Las dos excepciones son:
   1. **Apps iOS** — Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.
   2. **Apps Android** — Desarrollo nativo para el ecosistema Android. Compatibilidad total con el mercado.
   3. **Apps Web** — Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.
-  4. **Consultoría** — Definimos contigo la arquitectura, tecnología y hoja de ruta de tu producto digital.
+  4. **Consultoría** — Definimos contigo la arquitectura, tecnología y progreso de tu producto digital.
 
 **Por qué Rasgo Media**
 - Título: Por qué Rasgo Media
-- 01 · **Entrega en plazo** — Metodología ágil con sprints cortos. Sabes en todo momento en qué punto está tu proyecto.
-- 02 · **Código limpio y escalable** — Arquitecturas pensadas para crecer. Sin deuda técnica que frene tu negocio.
-- 03 · **Comunicación directa** — Un interlocutor único. Sin intermediarios, sin malentendidos.
+- 01 · **Entrega en plazo** — Metodología ágil, seguimiento efectivo de tu proyecto.
+- 02 · **Código limpio y escalable** — Arquitecturas escalables para tu futuro.
+- 03 · **Comunicación directa** —  Requisitos sin intermediarios, sin malentendidos.
 
 **Llamada final**
 - Título: ¿Tienes un proyecto en mente?
@@ -79,16 +79,16 @@ el content.json con estos cambios"). Las dos excepciones son:
 
 **Cabecera**
 - Título: Catálogo de apps
-- Subtítulo: Una selección de proyectos desarrollados por Rasgo Media.
+- Subtítulo: Selección de proyectos desarrollados por Rasgo Media.
 
 **Proyectos**
 
-1. **Graphed** — App de gráficos ágiles para seguimiento de datos. Crea y gestiona gráficos matemáticos directamente en tu dispositivo. *(Android)*
-2. **CSUBA** — Plataforma para gestionar y seguir subastas de forma ágil, disponible como aplicación web y app Android nativa. *(Web · Android)*
-3. **Ponte** — App de citas con geolocalización. Encuentra y conecta con personas cerca de ti de forma sencilla y directa. *(Web: ponte1.es)*
-4. **Khome** — Catálogo de mini-casas económicas: explora modelos, sigue el montaje y gestiona tu compra, todo en un solo lugar. *(Web: khome.es)*
-5. **Jobsi** — Buscador de empleo inteligente que rankea las ofertas según tu perfil de skills, sin gastar créditos de más en cada búsqueda. *(Web: jobsi.rasgomedia.es)*
-6. **Lando** — Buscador de propiedades con filtros avanzados: provincia, precio, distancia al mar y clima, en toda España. *(Web: lando.rasgomedia.es)*
+1. **Graphed** — App de gráficos ágiles para seguimiento de datos. Crea y gestiona variables en tu dispositivo. *(Android)*
+2. **CSUBA** — Plataforma para gestionar y seguir subastas de forma ágil, disponible web. *(Web: csuba.rasgomedia.es)*
+3. **Ponte** — Red Social de conexión internacional. Contacta personas afines de forma sencilla y directa. *(Web: ponte1.es)*
+4. **Khome** — Catálogo de mini-casas económicas: explora modelos, sigue el montaje y gestiona tu compra. *(Web: khome.es)*
+5. **Jobsi** — Buscador de empleo inteligente que rankea las ofertas según tus skills, sin gastar créditos de más en cada búsqueda. *(Web: jobsi.rasgomedia.es)*
+6. **Lando** — Buscador de propiedades con filtros de provincia, precio, distancia al mar y clima, España. *(Web: lando.rasgomedia.es)*
 
 ---
 

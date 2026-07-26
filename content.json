@@ -16,14 +16,14 @@
   "home": {
     "meta": {
       "title": "Rasgo Media — Desarrollo de Apps | rasgomedia.es",
-      "description": "Desarrollamos apps iOS, Android y web a medida para empresas y startups. Código limpio, entrega en plazo, comunicación directa.",
+      "description": "Desarrollamos apps efectivas para iOS, Android y web a medida para empresas y particulares. Código limpio, entrega en plazo, comunicación directa.",
       "ogTitle": "Rasgo Media — Desarrollo de Apps",
-      "ogDescription": "Apps iOS, Android y web a medida. Startups y empresas."
+      "ogDescription": "Apps iOS, Android y web a medida. Particulares y empresas."
     },
     "hero": {
       "titleLine1": "Tu app, desde la idea",
       "titleLine2": "hasta el lanzamiento.",
-      "subtitle": "Desarrollamos aplicaciones iOS, Android y web a medida. Sin rodeos, sin sorpresas. Solo resultados.",
+      "subtitle": "Desarrollamos aplicaciones iOS, Android y web a medida. Resultados sencillos y efectivos.",
       "cta": "Cuéntanos tu proyecto"
     },
     "services": {
@@ -33,15 +33,15 @@
         { "title": "Apps iOS", "text": "Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.", "variant": "primary" },
         { "title": "Apps Android", "text": "Desarrollo nativo para el ecosistema Android. Compatibilidad total con el mercado.", "variant": "accent" },
         { "title": "Apps Web", "text": "Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.", "variant": "muted" },
-        { "title": "Consultoría", "text": "Definimos contigo la arquitectura, tecnología y hoja de ruta de tu producto digital.", "variant": "dark" }
+        { "title": "Consultoría", "text": "Definimos contigo la arquitectura, tecnología y progreso de tu producto digital.", "variant": "dark" }
       ]
     },
     "why": {
       "heading": "Por qué Rasgo Media",
       "items": [
-        { "num": "01", "title": "Entrega en plazo", "text": "Metodología ágil con sprints cortos. Sabes en todo momento en qué punto está tu proyecto." },
-        { "num": "02", "title": "Código limpio y escalable", "text": "Arquitecturas pensadas para crecer. Sin deuda técnica que frene tu negocio." },
-        { "num": "03", "title": "Comunicación directa", "text": "Un interlocutor único. Sin intermediarios, sin malentendidos." }
+        { "num": "01", "title": "Entrega en plazo", "text": "Metodología ágil, seguimiento efectivo de tu proyecto." },
+        { "num": "02", "title": "Código limpio y escalable", "text": "Arquitecturas escalables para tu futuro." },
+        { "num": "03", "title": "Comunicación directa", "text": "Requisitos sin intermediarios, sin malentendidos." }
       ]
     },
     "finalCta": {
@@ -57,18 +57,18 @@
       "ogTitle": "Catálogo de Apps — Rasgo Media"
     },
     "heading": "Catálogo de apps",
-    "subheading": "Una selección de proyectos desarrollados por Rasgo Media.",
+    "subheading": "Selección de proyectos desarrollados por Rasgo Media.",
     "projects": [
       {
         "name": "Graphed",
-        "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona gráficos matemáticos directamente en tu dispositivo.",
+        "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona variables en tu dispositivo.",
         "image": "/catalogo/graphed.png",
         "variant": "primary",
         "tags": [{ "label": "Android" }]
       },
       {
         "name": "CSUBA",
-        "text": "Plataforma para gestionar y seguir subastas de forma ágil, disponible como aplicación web y app Android nativa.",
+        "text": "Plataforma para gestionar y seguir subastas de forma ágil, disponible web.",
         "image": "/catalogo/csuba.jpg",
         "variant": "accent",
         "tags": [
@@ -78,28 +78,28 @@
       },
       {
         "name": "Ponte",
-        "text": "App de citas con geolocalización. Encuentra y conecta con personas cerca de ti de forma sencilla y directa.",
+        "text": "Red Social de conexión internacional. Contacta personas afines de forma sencilla y directa.",
         "image": "/catalogo/ponte.jpg",
         "variant": "dark",
         "tags": [{ "label": "Web", "href": "https://ponte1.es" }]
       },
       {
         "name": "Khome",
-        "text": "Catálogo de mini-casas económicas: explora modelos, sigue el montaje y gestiona tu compra, todo en un solo lugar.",
+        "text": "Catálogo de mini-casas económicas: explora modelos, sigue el montaje y gestiona tu compra.",
         "image": "/catalogo/khome.jpeg",
         "variant": "muted",
         "tags": [{ "label": "Web", "href": "https://khome.es" }]
       },
       {
         "name": "Jobsi",
-        "text": "Buscador de empleo inteligente que rankea las ofertas según tu perfil de skills, sin gastar créditos de más en cada búsqueda.",
+        "text": "Buscador de empleo inteligente que rankea las ofertas según tus skills, sin gastar créditos de más en cada búsqueda.",
         "image": "/catalogo/jobsi.jpeg",
         "variant": "primary",
         "tags": [{ "label": "Web", "href": "https://jobsi.rasgomedia.es" }]
       },
       {
         "name": "Lando",
-        "text": "Buscador de propiedades con filtros avanzados: provincia, precio, distancia al mar y clima, en toda España.",
+        "text": "Buscador de propiedades con filtros de provincia, precio, distancia al mar y clima, España.",
         "image": "/catalogo/lando.jpeg",
         "variant": "accent",
         "tags": [{ "label": "Web", "href": "https://lando.rasgomedia.es" }]
