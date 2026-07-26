@@ -40,14 +40,16 @@ export default function CatalogoPage() {
               key={project.name}
               className="rounded-lg border border-border overflow-hidden flex flex-col"
             >
-              <div className="relative w-full aspect-[16/9] bg-white">
-                <Image
-                  src={project.image}
-                  alt={`${project.name} — icono de la app`}
-                  fill
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                  className="object-contain p-6"
-                />
+              <div className="relative w-full aspect-[16/9] bg-white flex items-center justify-center p-6">
+                <div className="relative w-24 h-24 rounded-2xl overflow-hidden shadow-sm shrink-0">
+                  <Image
+                    src={project.image}
+                    alt={`${project.name} — icono de la app`}
+                    fill
+                    sizes="96px"
+                    className="object-cover"
+                  />
+                </div>
               </div>
               <div className={`${cardVariants[project.variant]} p-6 flex-1 flex flex-col`}>
                 <h2 className="text-lg font-bold mb-2">{project.name}</h2>
