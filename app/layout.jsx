@@ -1,8 +1,8 @@
 import "./globals.css";
 import content from "../content.json";
-import SiteHeader from "../components/SiteHeader";
 import SiteNav from "../components/SiteNav";
 import SiteFooter from "../components/SiteFooter";
+import WhatsAppFloat from "../components/WhatsAppFloat";
 
 export const metadata = {
   metadataBase: new URL(content.site.url),
@@ -36,10 +36,10 @@ export default function RootLayout({ children }) {
     <html lang="es">
       <body>
         <div className="min-h-screen bg-background flex flex-col">
-          <SiteHeader />
           <SiteNav />
           {children}
           <SiteFooter />
+          <WhatsAppFloat />
         </div>
       </body>
     </html>

@@ -5,7 +5,12 @@
     "url": "https://rasgomedia.es",
     "email": "hola@rasgomedia.es",
     "logoAlt": "Rasgo Media",
-    "copyright": "© 2026 Rasgo Media · rasgomedia.es"
+    "copyright": "© 2026 Rasgo Media · rasgomedia.es",
+    "whatsapp": {
+      "phone": "+34611074309",
+      "message": "Hola, quiero información sobre el desarrollo de una app.",
+      "label": "Escríbenos por WhatsApp"
+    }
   },
   "nav": [
     { "label": "Inicio", "href": "/" },
@@ -21,18 +26,28 @@
       "ogDescription": "Apps iOS, Android y web a medida. Particulares y empresas."
     },
     "hero": {
+      "eyebrow": "Desarrollo de apps a medida",
       "titleLine1": "Tu app, desde la idea",
       "titleLine2": "hasta el lanzamiento.",
       "subtitle": "Desarrollamos aplicaciones iOS, Android y web a medida. Resultados sencillos y efectivos.",
-      "cta": "Cuéntanos tu proyecto"
+      "cta": "Cuéntanos tu proyecto",
+      "seasonToggle": {
+        "toSummer": "Activar modo verano",
+        "toWinter": "Volver a modo invierno"
+      }
+    },
+    "videoBanner": {
+      "videoSrc": "/video/RasgoMedia_anuncio_apps1.mp4",
+      "badge": "Demo reel",
+      "cta": "Ver catálogo",
+      "ctaHref": "/catalogo"
     },
     "services": {
-      "heading": "Qué hacemos",
-      "subheading": "Desarrollo de producto digital de principio a fin.",
+      "heading": "Nuestras Soluciones",
       "items": [
-        { "title": "Apps iOS", "text": "Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.", "variant": "primary" },
+        { "title": "Apps Web", "text": "Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.", "variant": "primary" },
         { "title": "Apps Android", "text": "Desarrollo nativo para el ecosistema Android. Compatibilidad total con el mercado.", "variant": "accent" },
-        { "title": "Apps Web", "text": "Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.", "variant": "muted" },
+        { "title": "Apps iOS", "text": "Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.", "variant": "muted" },
         { "title": "Consultoría", "text": "Definimos contigo la arquitectura, tecnología y progreso de tu producto digital.", "variant": "dark" }
       ]
     },
@@ -45,7 +60,7 @@
       ]
     },
     "finalCta": {
-      "heading": "¿Tienes un proyecto en mente?",
+      "heading": "¿Qué necesitas para tu proyecto?",
       "text": "Escríbenos. Respondemos en menos de 24 horas.",
       "button": "Contactar ahora"
     }
@@ -64,7 +79,7 @@
         "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona variables en tu dispositivo.",
         "image": "/catalogo/graphed.png",
         "variant": "primary",
-        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/developer?id=RasgoMedia" }]
+        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }]
       },
       {
         "name": "CSUBA",
@@ -73,7 +88,7 @@
         "variant": "accent",
         "tags": [
           { "label": "Web", "href": "https://csuba.rasgomedia.es" },
-          { "label": "Android", "href": "https://play.google.com/store/apps/developer?id=RasgoMedia" }
+          { "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }
         ]
       },
       {

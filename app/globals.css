@@ -29,3 +29,75 @@ body {
     Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
+
+/* ---- hero ambient snow ---- */
+.snowfield {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  z-index: 1;
+  pointer-events: none;
+}
+.snowflake {
+  position: absolute;
+  top: 0;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.55);
+  opacity: 0;
+  will-change: translate, opacity;
+}
+@keyframes snow-fall {
+  0% {
+    translate: 0 calc(var(--fall) * -0.06);
+  }
+  25% {
+    translate: var(--amp) calc(var(--fall) * 0.22);
+  }
+  50% {
+    translate: 0 calc(var(--fall) * 0.5);
+  }
+  75% {
+    translate: calc(var(--amp) * -1) calc(var(--fall) * 0.78);
+  }
+  100% {
+    translate: 0 calc(var(--fall) * 1.02);
+  }
+}
+@keyframes snow-fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  15% {
+    opacity: var(--peak, 0.8);
+  }
+  50% {
+    opacity: calc(var(--peak, 0.8) * 0.5);
+  }
+  85% {
+    opacity: var(--peak, 0.8);
+  }
+}
+@keyframes ember-fade {
+  0% {
+    opacity: 0;
+  }
+  8% {
+    opacity: var(--peak, 1);
+  }
+  16% {
+    opacity: calc(var(--peak, 1) * 0.9);
+  }
+  26% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .snowfield {
+    display: none;
+  }
+}
