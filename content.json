@@ -148,52 +148,107 @@
   "privacidad": {
     "meta": {
       "title": "Política de Privacidad — Rasgo Media",
-      "description": "Política de privacidad de Graphed, desarrollado por RasgoMedia. Información sobre el tratamiento de datos personales."
+      "description": "Política de privacidad de las apps de RasgoMedia (Graphed, CASTX). Información sobre el tratamiento de datos personales."
     },
-    "heading": "Política de Privacidad — Graphed",
-    "updated": "Última actualización: 2 de julio de 2026",
-    "sections": [
+    "heading": "Política de Privacidad",
+    "intro": "Esta página cubre la política de privacidad de todas las apps desarrolladas por RasgoMedia. Elige tu app en el índice o desplázate a su sección.",
+    "apps": [
       {
-        "h2": "1. Información General",
-        "body": "<p class=\"mb-3\">Graphed es una aplicación móvil interactiva para crear y gestionar gráficos matemáticos. Esta política de privacidad explica cómo tratamos tus datos personales.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> RasgoMedia</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+        "id": "graphed",
+        "name": "Graphed",
+        "updated": "Última actualización: 2 de julio de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"mb-3\">Graphed es una aplicación móvil interactiva para crear y gestionar gráficos matemáticos. Esta política de privacidad explica cómo tratamos tus datos personales.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> RasgoMedia</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Datos que Recopilamos",
+            "body": "<h3 class=\"font-semibold mb-2\">2.1 Datos Locales (SQLite)</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Gráficos creados:</span> nombres, variables, puntos de datos (x, y)</li><li><span class=\"font-semibold text-foreground\">Configuración de la aplicación:</span> preferencias de usuario</li><li><span class=\"font-semibold text-foreground\">Historial de gráficos:</span> información sobre gráficos anteriores</li></ul><p class=\"text-muted-foreground mb-4\"><span class=\"font-semibold text-foreground\">Almacenamiento:</span> Todos estos datos se guardan <strong>exclusivamente en tu dispositivo</strong> en una base de datos SQLite local. No se envían a nuestros servidores.</p><h3 class=\"font-semibold mb-2\">2.2 Datos de Navegación</h3><p class=\"text-muted-foreground mb-4\">Cuando usas el link &quot;By RasgoMedia&quot; para abrir https://rasgomedia.es/, se abre tu navegador predeterminado. No recopilamos información sobre estas visitas.</p><h3 class=\"font-semibold mb-2\">2.3 Datos de Compartir</h3><p class=\"text-muted-foreground\">Cuando compartes un gráfico usando la función &quot;Compartir&quot;, la aplicación genera una imagen PNG que se envía a través de la app que elijas (WhatsApp, Gmail, etc.). RasgoMedia no recibe copias de estos datos.</p>"
+          },
+          {
+            "h2": "3. Permisos de la Aplicación",
+            "body": "<h3 class=\"font-semibold mb-2\">3.1 Permisos Utilizados</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-4\"><li><span class=\"font-semibold text-foreground\">Acceso a almacenamiento local:</span> Para guardar y recuperar gráficos en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Acceso a Internet:</span> Para abrir enlaces web (política de privacidad, sitio web)</li><li><span class=\"font-semibold text-foreground\">Capacidad de compartir:</span> Para permitirte compartir gráficos con otras aplicaciones</li></ul><h3 class=\"font-semibold mb-2\">3.2 Permisos NO Utilizados</h3><p class=\"text-muted-foreground mb-2\">Graphed <strong>NO solicita</strong> ni utiliza:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceso a micrófono</li><li>Acceso a cámara</li><li>Acceso a contactos</li><li>Acceso a ubicación</li><li>Acceso a fotos (excepto para compartir)</li></ul>"
+          },
+          {
+            "h2": "4. Política de Cookies y Rastreo",
+            "body": "<p class=\"text-muted-foreground\">Graphed <strong>no utiliza cookies</strong> ni tecnologías de rastreo. No recopilamos datos de comportamiento ni de navegación dentro de la app.</p>"
+          },
+          {
+            "h2": "5. Cómo Protegemos Tus Datos",
+            "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Almacenamiento local:</span> Todos tus gráficos se almacenan solo en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Sin servidor:</span> No transmitimos datos personales a servidores externos</li><li><span class=\"font-semibold text-foreground\">Sin analítica:</span> No usamos herramientas de análisis que recopilen datos de uso</li></ol>"
+          },
+          {
+            "h2": "6. Retención de Datos",
+            "body": "<p class=\"text-muted-foreground\">Los datos en Graphed se conservan mientras la aplicación esté instalada en tu dispositivo. Cuando desinstales la app, todos los datos locales se eliminan automáticamente.</p>"
+          },
+          {
+            "h2": "7. Derechos del Usuario",
+            "body": "<p class=\"text-muted-foreground mb-2\"><strong>Tienes derecho a:</strong></p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceder a tus datos (están en tu dispositivo)</li><li>Modificar tus datos (edita tus gráficos)</li><li>Eliminar tus datos (desinstala la app o elimina gráficos individuales)</li><li>Exportar tus datos (comparte gráficos como imágenes)</li></ul>"
+          },
+          {
+            "h2": "8. Cambios a Esta Política",
+            "body": "<p class=\"text-muted-foreground\">Nos reservamos el derecho de actualizar esta política de privacidad. Te notificaremos de cambios significativos a través de actualizaciones de la aplicación.</p>"
+          },
+          {
+            "h2": "9. Contacto",
+            "body": "<p class=\"text-muted-foreground mb-2\">Si tienes preguntas sobre esta política de privacidad:</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          },
+          {
+            "h2": "10. Cumplimiento Legal",
+            "body": "<p class=\"text-muted-foreground mb-2\">Esta aplicación cumple con:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">RGPD (Reglamento General de Protección de Datos)</span> — UE</li><li>Leyes españolas de protección de datos</li><li>Google Play Store policies</li></ul>"
+          }
+        ],
+        "footerNote": "Graphed. Desarrollado por RasgoMedia."
       },
       {
-        "h2": "2. Datos que Recopilamos",
-        "body": "<h3 class=\"font-semibold mb-2\">2.1 Datos Locales (SQLite)</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Gráficos creados:</span> nombres, variables, puntos de datos (x, y)</li><li><span class=\"font-semibold text-foreground\">Configuración de la aplicación:</span> preferencias de usuario</li><li><span class=\"font-semibold text-foreground\">Historial de gráficos:</span> información sobre gráficos anteriores</li></ul><p class=\"text-muted-foreground mb-4\"><span class=\"font-semibold text-foreground\">Almacenamiento:</span> Todos estos datos se guardan <strong>exclusivamente en tu dispositivo</strong> en una base de datos SQLite local. No se envían a nuestros servidores.</p><h3 class=\"font-semibold mb-2\">2.2 Datos de Navegación</h3><p class=\"text-muted-foreground mb-4\">Cuando usas el link &quot;By RasgoMedia&quot; para abrir https://rasgomedia.es/, se abre tu navegador predeterminado. No recopilamos información sobre estas visitas.</p><h3 class=\"font-semibold mb-2\">2.3 Datos de Compartir</h3><p class=\"text-muted-foreground\">Cuando compartes un gráfico usando la función &quot;Compartir&quot;, la aplicación genera una imagen PNG que se envía a través de la app que elijas (WhatsApp, Gmail, etc.). RasgoMedia no recibe copias de estos datos.</p>"
-      },
-      {
-        "h2": "3. Permisos de la Aplicación",
-        "body": "<h3 class=\"font-semibold mb-2\">3.1 Permisos Utilizados</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-4\"><li><span class=\"font-semibold text-foreground\">Acceso a almacenamiento local:</span> Para guardar y recuperar gráficos en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Acceso a Internet:</span> Para abrir enlaces web (política de privacidad, sitio web)</li><li><span class=\"font-semibold text-foreground\">Capacidad de compartir:</span> Para permitirte compartir gráficos con otras aplicaciones</li></ul><h3 class=\"font-semibold mb-2\">3.2 Permisos NO Utilizados</h3><p class=\"text-muted-foreground mb-2\">Graphed <strong>NO solicita</strong> ni utiliza:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceso a micrófono</li><li>Acceso a cámara</li><li>Acceso a contactos</li><li>Acceso a ubicación</li><li>Acceso a fotos (excepto para compartir)</li></ul>"
-      },
-      {
-        "h2": "4. Política de Cookies y Rastreo",
-        "body": "<p class=\"text-muted-foreground\">Graphed <strong>no utiliza cookies</strong> ni tecnologías de rastreo. No recopilamos datos de comportamiento ni de navegación dentro de la app.</p>"
-      },
-      {
-        "h2": "5. Cómo Protegemos Tus Datos",
-        "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Almacenamiento local:</span> Todos tus gráficos se almacenan solo en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Sin servidor:</span> No transmitimos datos personales a servidores externos</li><li><span class=\"font-semibold text-foreground\">Sin analítica:</span> No usamos herramientas de análisis que recopilen datos de uso</li></ol>"
-      },
-      {
-        "h2": "6. Retención de Datos",
-        "body": "<p class=\"text-muted-foreground\">Los datos en Graphed se conservan mientras la aplicación esté instalada en tu dispositivo. Cuando desinstales la app, todos los datos locales se eliminan automáticamente.</p>"
-      },
-      {
-        "h2": "7. Derechos del Usuario",
-        "body": "<p class=\"text-muted-foreground mb-2\"><strong>Tienes derecho a:</strong></p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceder a tus datos (están en tu dispositivo)</li><li>Modificar tus datos (edita tus gráficos)</li><li>Eliminar tus datos (desinstala la app o elimina gráficos individuales)</li><li>Exportar tus datos (comparte gráficos como imágenes)</li></ul>"
-      },
-      {
-        "h2": "8. Cambios a Esta Política",
-        "body": "<p class=\"text-muted-foreground\">Nos reservamos el derecho de actualizar esta política de privacidad. Te notificaremos de cambios significativos a través de actualizaciones de la aplicación.</p>"
-      },
-      {
-        "h2": "9. Contacto",
-        "body": "<p class=\"text-muted-foreground mb-2\">Si tienes preguntas sobre esta política de privacidad:</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
-      },
-      {
-        "h2": "10. Cumplimiento Legal",
-        "body": "<p class=\"text-muted-foreground mb-2\">Esta aplicación cumple con:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">RGPD (Reglamento General de Protección de Datos)</span> — UE</li><li>Leyes españolas de protección de datos</li><li>Google Play Store policies</li></ul>"
+        "id": "castx",
+        "name": "CASTX",
+        "updated": "Última actualización: 15 de agosto de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"mb-3\">CASTX es una aplicación móvil de gestión de apuestas deportivas con contabilidad cerrada (BANCA). Esta política de privacidad explica cómo tratamos tus datos personales.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> RasgoMedia</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Datos que Recopilamos",
+            "body": "<h3 class=\"font-semibold mb-2\">2.1 Datos Locales (SQLite)</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Hojas y eventos:</span> nombres de hojas, eventos, importes, cuotas y estados que introduces</li><li><span class=\"font-semibold text-foreground\">BANCA y movimientos:</span> saldo y movimientos manuales que registras</li><li><span class=\"font-semibold text-foreground\">Historial:</span> snapshots mensuales de banca, resultado y yield</li></ul><p class=\"text-muted-foreground mb-4\"><span class=\"font-semibold text-foreground\">Almacenamiento:</span> Todos estos datos se guardan <strong>exclusivamente en tu dispositivo</strong> en una base de datos SQLite local. No se envían a nuestros servidores — CASTX no tiene backend ni conexión a Internet.</p><h3 class=\"font-semibold mb-2\">2.2 Datos de Exportación</h3><p class=\"text-muted-foreground\">Cuando usas &quot;Exportar como CSV&quot;, la aplicación genera un archivo CSV local que se envía a través de la app que elijas (WhatsApp, Gmail, etc.) mediante el selector de compartir del sistema. RasgoMedia no recibe copias de estos datos.</p>"
+          },
+          {
+            "h2": "3. Permisos de la Aplicación",
+            "body": "<h3 class=\"font-semibold mb-2\">3.1 Permisos Utilizados</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-4\"><li><span class=\"font-semibold text-foreground\">Autenticación biométrica (huella / PIN):</span> Para bloquear el acceso a la app con la autenticación de tu propio dispositivo. CASTX no recibe ni almacena tu huella o PIN — los gestiona el sistema operativo</li></ul><h3 class=\"font-semibold mb-2\">3.2 Permisos NO Utilizados</h3><p class=\"text-muted-foreground mb-2\">CASTX <strong>NO solicita</strong> ni utiliza:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceso a Internet (la app funciona 100% sin conexión)</li><li>Acceso a micrófono</li><li>Acceso a cámara</li><li>Acceso a contactos</li><li>Acceso a ubicación</li></ul>"
+          },
+          {
+            "h2": "4. Política de Cookies y Rastreo",
+            "body": "<p class=\"text-muted-foreground\">CASTX <strong>no utiliza cookies</strong> ni tecnologías de rastreo, ni publicidad, ni SDKs de analítica de terceros.</p>"
+          },
+          {
+            "h2": "5. Cómo Protegemos Tus Datos",
+            "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Almacenamiento local:</span> Todos tus datos financieros y de apuestas se almacenan solo en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Sin servidor:</span> CASTX no tiene conexión a Internet — no puede transmitir datos aunque quisiera</li><li><span class=\"font-semibold text-foreground\">Sin analítica ni anuncios:</span> No usamos herramientas de análisis ni SDKs publicitarios</li></ol>"
+          },
+          {
+            "h2": "6. Retención de Datos",
+            "body": "<p class=\"text-muted-foreground\">Los datos en CASTX se conservan mientras la aplicación esté instalada en tu dispositivo. Cuando desinstales la app, todos los datos locales se eliminan automáticamente.</p>"
+          },
+          {
+            "h2": "7. Derechos del Usuario",
+            "body": "<p class=\"text-muted-foreground mb-2\"><strong>Tienes derecho a:</strong></p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Acceder a tus datos (están en tu dispositivo)</li><li>Modificar tus datos (edita tus hojas y eventos)</li><li>Eliminar tus datos (desinstala la app o elimina hojas/eventos individuales)</li><li>Exportar tus datos (función &quot;Exportar como CSV&quot;)</li></ul>"
+          },
+          {
+            "h2": "8. Cambios a Esta Política",
+            "body": "<p class=\"text-muted-foreground\">Nos reservamos el derecho de actualizar esta política de privacidad. Te notificaremos de cambios significativos a través de actualizaciones de la aplicación.</p>"
+          },
+          {
+            "h2": "9. Contacto",
+            "body": "<p class=\"text-muted-foreground mb-2\">Si tienes preguntas sobre esta política de privacidad:</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          },
+          {
+            "h2": "10. Cumplimiento Legal",
+            "body": "<p class=\"text-muted-foreground mb-2\">Esta aplicación cumple con:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">RGPD (Reglamento General de Protección de Datos)</span> — UE</li><li>Leyes españolas de protección de datos</li><li>Google Play Store policies</li></ul>"
+          }
+        ],
+        "footerNote": "CASTX. Desarrollado por RasgoMedia."
       }
-    ],
-    "footerNote": "Graphed. Desarrollado por RasgoMedia."
+    ]
   }
 }
