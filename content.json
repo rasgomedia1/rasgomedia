@@ -118,6 +118,13 @@
         "image": "/catalogo/lando.jpeg",
         "variant": "accent",
         "tags": [{ "label": "Web", "href": "https://lando.rasgomedia.es" }]
+      },
+      {
+        "name": "Stampo",
+        "text": "Cámara que estampa fecha, hora de red, GPS y dirección en cada foto, organizadas en carpetas por ubicación.",
+        "image": "/catalogo/stampo.png",
+        "variant": "dark",
+        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }]
       }
     ]
   },
