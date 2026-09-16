@@ -4,7 +4,7 @@
   "private": true,
   "description": "Sitio web de Rasgo Media — desarrollo de apps iOS, Android y web. Réplica en Next.js optimizada para Vercel.",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 5182",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
