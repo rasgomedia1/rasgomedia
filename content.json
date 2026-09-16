@@ -75,6 +75,13 @@
     "subheading": "Selección de proyectos desarrollados por Rasgo Media.",
     "projects": [
       {
+        "name": "Stampo",
+        "text": "Cámara que estampa fecha, hora de red, GPS y dirección en cada foto, organizadas en carpetas por ubicación.",
+        "image": "/catalogo/stampo.png",
+        "variant": "dark",
+        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }]
+      },
+      {
         "name": "Graphed",
         "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona variables en tu dispositivo.",
         "image": "/catalogo/graphed.png",
@@ -118,13 +125,6 @@
         "image": "/catalogo/lando.jpeg",
         "variant": "accent",
         "tags": [{ "label": "Web", "href": "https://lando.rasgomedia.es" }]
-      },
-      {
-        "name": "Stampo",
-        "text": "Cámara que estampa fecha, hora de red, GPS y dirección en cada foto, organizadas en carpetas por ubicación.",
-        "image": "/catalogo/stampo.png",
-        "variant": "dark",
-        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }]
       }
     ]
   },
