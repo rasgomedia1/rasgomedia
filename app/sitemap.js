@@ -6,6 +6,7 @@ export default function sitemap() {
   return [
     { url: `${base}/`, lastModified: now, changeFrequency: "monthly", priority: 1 },
     { url: `${base}/catalogo`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${base}/multimodal`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/contacto`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
   ];
 }

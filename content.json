@@ -15,6 +15,7 @@
   "nav": [
     { "label": "Inicio", "href": "/" },
     { "label": "Catálogo", "href": "/catalogo" },
+    { "label": "Multimodal", "href": "/multimodal" },
     { "label": "Contacto", "href": "/contacto" },
     { "label": "Privacidad", "href": "/privacidad" }
   ],
@@ -125,6 +126,57 @@
         "image": "/catalogo/lando.jpeg",
         "variant": "accent",
         "tags": [{ "label": "Web", "href": "https://lando.rasgomedia.es" }]
+      }
+    ]
+  },
+  "multimodal": {
+    "meta": {
+      "title": "Multimodal — Rasgo Media",
+      "description": "Reels de las apps de contenido multimodal de Rasgo Media: Eclipzo, Morpo, Verglu y Megu, cada una produciendo su propio video.",
+      "ogTitle": "Multimodal — Rasgo Media",
+      "ogImage": "/og-multimodal.jpg",
+      "ogImageAlt": "Cuatro reels verticales de Eclipzo, Morpo, Verglu y Megu sobre el lema Una imagen, mil sentimientos."
+    },
+    "eyebrow": "Contenido multimodal",
+    "heading": "Una imagen, mil sentimientos.",
+    "subheading": "..y un billón de parámetros.",
+    "pendingLabel": "reel pendiente",
+    "soundOn": "Activar sonido de {app}",
+    "soundOff": "Silenciar {app}",
+    "appLinkTitle": "Abrir {app}",
+    "videoAlt": "Reel de {app}",
+    "reels": [
+      {
+        "name": "Eclipzo",
+        "claim": "El oráculo del eclipse",
+        "resumen": "El oráculo del eclipse convierte tus omen en un horóscopo personalizado con naturaleza, voz y música generadas.",
+        "poster": "/reels/eclipzo-poster.jpg",
+        "video": "/reels/eclipzo.mp4",
+      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+      },
+      {
+        "name": "Morpo",
+        "claim": "Retratos que cobran vida",
+        "resumen": "Tus retratos cobran vida: cada foto y su verso, la voz en off y música generada se funde con la siguiente.",
+        "poster": "/reels/morpo-poster.jpg",
+        "video": "/reels/morpo.mp4",
+      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+      },
+      {
+        "name": "Verglu",
+        "claim": "Fotos que fluyen una en otra",
+        "resumen": "Historiestas de acción interpolada, texto a imagen, voz y música en un solo clip vertical.",
+        "poster": "/reels/verglu-poster.jpg",
+        "video": "/reels/verglu.mp4",
+      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+      },
+      {
+        "name": "Megu",
+        "claim": "Producción de video con IA",
+        "resumen": "Producción Cinematográfica: del brief al guion y storyboard visual, con dos pipelines, mvp en minutos, entregas profesionales en 1hr.",
+        "poster": "/reels/megu-poster.jpg",
+        "video": "/reels/megu.mp4",
+      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
       }
     ]
   },
