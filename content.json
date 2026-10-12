@@ -286,7 +286,7 @@
   "privacidad": {
     "meta": {
       "title": "Política de Privacidad — Rasgo Media",
-      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm y Siferti."
+      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm, Siferti y Envlix."
     },
     "heading": "Política de Privacidad",
     "intro": "Esta página cubre la política de privacidad de todas las apps desarrolladas por Rasgo Media. Elige tu app en el índice o desplázate a su sección.",
@@ -630,6 +630,46 @@
           }
         ],
         "footerNote": "Siferti · Rasgo Media"
+      },
+      {
+        "id": "envlix",
+        "name": "Envlix",
+        "updated": "Última actualización: 12 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Envlix es un registro personal del dinero que envías a otras personas (remesas): a quién, cuánto, cada cuánto y el total del mes.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. En resumen",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Todo lo que registras se guarda <strong>solo en tu móvil</strong>.</li><li><strong>No recopilamos ningún dato</strong>: no hay cuentas, ni servidor, ni nube, ni publicidad, ni analítica, ni rastreo entre apps.</li><li>La app <strong>no necesita conexión a Internet</strong> y no envía nada a Rasgo Media ni a terceros.</li><li>Envlix <strong>no mueve dinero</strong>: no conecta con bancos ni hace pagos; solo anota los envíos que tú haces por tu cuenta.</li></ul>"
+          },
+          {
+            "h2": "3. Datos que se quedan en tu móvil",
+            "body": "<p class=\"text-muted-foreground mb-3\">Los destinos que añades (nombre, teléfono, dirección, número de cuenta, cumpleaños, notas y foto opcional), los importes y fechas de cada envío y los ajustes de la app se guardan en el almacenamiento privado de la app. Si borras un destino o desinstalas la app, se borran.</p><p class=\"text-muted-foreground\">La foto de un destino la eliges tú de tu galería; la app no usa la cámara ni lee el resto de tus fotos. El <strong>bloqueo con huella, cara o PIN</strong> es opcional y lo comprueba el propio sistema del móvil: la app solo recibe un «sí» o «no», nunca tu huella ni tu código.</p>"
+          },
+          {
+            "h2": "4. Reporte y copia de seguridad",
+            "body": "<p class=\"text-muted-foreground\">El reporte del mes y la copia de seguridad solo salen del móvil cuando <strong>tú</strong> decides compartirlos o guardarlos, con la app o el lugar que elijas (WhatsApp, correo, tus archivos…). Rasgo Media no recibe copia. Desde ese momento los trata la app o servicio que hayas elegido, según su propia política.</p>"
+          },
+          {
+            "h2": "6. Tus derechos",
+            "body": "<p class=\"text-muted-foreground\">Como no recibimos ni guardamos tus datos, todo lo tuyo está en tu móvil: puedes consultarlo, cambiarlo, exportarlo con la copia de seguridad o borrarlo desde la propia app. Para cualquier duda o para ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad, escribe a <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. También puedes reclamar ante la Agencia Española de Protección de Datos (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "6. Menores",
+            "body": "<p class=\"text-muted-foreground\">Envlix está pensada para personas adultas.</p>"
+          },
+          {
+            "h2": "8. Cambios",
+            "body": "<p class=\"text-muted-foreground\">Si cambiamos esta política, actualizaremos la fecha y, si es importante, te lo indicaremos en la app.</p>"
+          },
+          {
+            "h2": "9. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Envlix · Rasgo Media"
       }
     ]
   }
