@@ -13,11 +13,26 @@
     }
   },
   "nav": [
-    { "label": "Inicio", "href": "/" },
-    { "label": "Catálogo", "href": "/catalogo" },
-    { "label": "Multimodal", "href": "/multimodal" },
-    { "label": "Contacto", "href": "/contacto" },
-    { "label": "Privacidad", "href": "/privacidad" }
+    {
+      "label": "Inicio",
+      "href": "/"
+    },
+    {
+      "label": "Catálogo",
+      "href": "/catalogo"
+    },
+    {
+      "label": "Multimodal",
+      "href": "/multimodal"
+    },
+    {
+      "label": "Contacto",
+      "href": "/contacto"
+    },
+    {
+      "label": "Privacidad",
+      "href": "/privacidad"
+    }
   ],
   "home": {
     "meta": {
@@ -46,18 +61,46 @@
     "services": {
       "heading": "Nuestras Soluciones",
       "items": [
-        { "title": "Apps Web", "text": "Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.", "variant": "primary" },
-        { "title": "Apps Android", "text": "Desarrollo nativo para el ecosistema Android. Compatibilidad total con el mercado.", "variant": "accent" },
-        { "title": "Apps iOS", "text": "Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.", "variant": "muted" },
-        { "title": "Consultoría", "text": "Definimos contigo la arquitectura, tecnología y progreso de tu producto digital.", "variant": "dark" }
+        {
+          "title": "Apps Web",
+          "text": "Aplicaciones web progresivas (PWA) y plataformas SaaS. Accesibles desde cualquier dispositivo.",
+          "variant": "primary"
+        },
+        {
+          "title": "Apps Android",
+          "text": "Desarrollo nativo para el ecosistema Android. Compatibilidad total con el mercado.",
+          "variant": "accent"
+        },
+        {
+          "title": "Apps iOS",
+          "text": "Aplicaciones nativas para iPhone y iPad. Rendimiento máximo, experiencia Apple.",
+          "variant": "muted"
+        },
+        {
+          "title": "Consultoría",
+          "text": "Definimos contigo la arquitectura, tecnología y progreso de tu producto digital.",
+          "variant": "dark"
+        }
       ]
     },
     "why": {
       "heading": "Por qué Rasgo Media",
       "items": [
-        { "num": "01", "title": "Entrega en plazo", "text": "Metodología ágil, seguimiento efectivo de tu proyecto." },
-        { "num": "02", "title": "Código limpio y escalable", "text": "Arquitecturas escalables para tu futuro." },
-        { "num": "03", "title": "Comunicación directa", "text": "Requisitos sin intermediarios, sin malentendidos." }
+        {
+          "num": "01",
+          "title": "Entrega en plazo",
+          "text": "Metodología ágil, seguimiento efectivo de tu proyecto."
+        },
+        {
+          "num": "02",
+          "title": "Código limpio y escalable",
+          "text": "Arquitecturas escalables para tu futuro."
+        },
+        {
+          "num": "03",
+          "title": "Comunicación directa",
+          "text": "Requisitos sin intermediarios, sin malentendidos."
+        }
       ]
     },
     "finalCta": {
@@ -80,14 +123,24 @@
         "text": "Cámara que estampa fecha, hora de red, GPS y dirección en cada foto, organizadas en carpetas por ubicación.",
         "image": "/catalogo/stampo.png",
         "variant": "dark",
-        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }]
+        "tags": [
+          {
+            "label": "Android",
+            "href": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+          }
+        ]
       },
       {
         "name": "Graphed",
         "text": "App de gráficos ágiles para seguimiento de datos. Crea y gestiona variables en tu dispositivo.",
         "image": "/catalogo/graphed.png",
         "variant": "primary",
-        "tags": [{ "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }]
+        "tags": [
+          {
+            "label": "Android",
+            "href": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+          }
+        ]
       },
       {
         "name": "CSUBA",
@@ -95,8 +148,14 @@
         "image": "/catalogo/csuba.jpg",
         "variant": "accent",
         "tags": [
-          { "label": "Web", "href": "https://csuba.rasgomedia.es" },
-          { "label": "Android", "href": "https://play.google.com/store/apps/dev?id=8519595845176110407" }
+          {
+            "label": "Web",
+            "href": "https://csuba.rasgomedia.es"
+          },
+          {
+            "label": "Android",
+            "href": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+          }
         ]
       },
       {
@@ -104,28 +163,48 @@
         "text": "Red Social de conexión internacional. Contacta personas afines de forma sencilla y directa.",
         "image": "/catalogo/ponte.jpg",
         "variant": "dark",
-        "tags": [{ "label": "Web", "href": "https://ponte1.es" }]
+        "tags": [
+          {
+            "label": "Web",
+            "href": "https://ponte1.es"
+          }
+        ]
       },
       {
         "name": "Khome",
         "text": "Catálogo de mini-casas económicas: explora modelos, sigue el montaje y gestiona tu compra.",
         "image": "/catalogo/khome.jpeg",
         "variant": "muted",
-        "tags": [{ "label": "Web", "href": "https://khome.es" }]
+        "tags": [
+          {
+            "label": "Web",
+            "href": "https://khome.es"
+          }
+        ]
       },
       {
         "name": "Jobsi",
         "text": "Buscador de empleo inteligente que rankea las ofertas según tus skills, sin gastar créditos de más en cada búsqueda.",
         "image": "/catalogo/jobsi.jpeg",
         "variant": "primary",
-        "tags": [{ "label": "Web", "href": "https://jobsi.rasgomedia.es" }]
+        "tags": [
+          {
+            "label": "Web",
+            "href": "https://jobsi.rasgomedia.es"
+          }
+        ]
       },
       {
         "name": "Lando",
         "text": "Buscador de propiedades con filtros de provincia, precio, distancia al mar y clima, España.",
         "image": "/catalogo/lando.jpeg",
         "variant": "accent",
-        "tags": [{ "label": "Web", "href": "https://lando.rasgomedia.es" }]
+        "tags": [
+          {
+            "label": "Web",
+            "href": "https://lando.rasgomedia.es"
+          }
+        ]
       }
     ]
   },
@@ -152,7 +231,7 @@
         "resumen": "El oráculo del eclipse convierte tus omen en un horóscopo personalizado con naturaleza, voz y música generadas.",
         "poster": "/reels/eclipzo-poster.jpg",
         "video": "/reels/eclipzo.mp4",
-      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+        "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
       },
       {
         "name": "Morpo",
@@ -160,7 +239,7 @@
         "resumen": "Tus retratos cobran vida: cada foto y su verso, la voz en off y música generada se funde con la siguiente.",
         "poster": "/reels/morpo-poster.jpg",
         "video": "/reels/morpo.mp4",
-      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+        "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
       },
       {
         "name": "Verglu",
@@ -168,7 +247,7 @@
         "resumen": "Historiestas de acción interpolada, texto a imagen, voz y música en un solo clip vertical.",
         "poster": "/reels/verglu-poster.jpg",
         "video": "/reels/verglu.mp4",
-      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+        "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
       },
       {
         "name": "Megu",
@@ -176,7 +255,7 @@
         "resumen": "Producción Cinematográfica: del brief al guion y storyboard visual, con dos pipelines, mvp en minutos, entregas profesionales en 1hr.",
         "poster": "/reels/megu-poster.jpg",
         "video": "/reels/megu.mp4",
-      "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
+        "url": "https://play.google.com/store/apps/dev?id=8519595845176110407"
       }
     ]
   },
@@ -207,10 +286,10 @@
   "privacidad": {
     "meta": {
       "title": "Política de Privacidad — Rasgo Media",
-      "description": "Política de privacidad de las apps de RasgoMedia (Graphed, CASTX). Información sobre el tratamiento de datos personales."
+      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm y Siferti."
     },
     "heading": "Política de Privacidad",
-    "intro": "Esta página cubre la política de privacidad de todas las apps desarrolladas por RasgoMedia. Elige tu app en el índice o desplázate a su sección.",
+    "intro": "Esta página cubre la política de privacidad de todas las apps desarrolladas por Rasgo Media. Elige tu app en el índice o desplázate a su sección.",
     "apps": [
       {
         "id": "graphed",
@@ -307,6 +386,250 @@
           }
         ],
         "footerNote": "CASTX. Desarrollado por RasgoMedia."
+      },
+      {
+        "id": "sim112",
+        "name": "SIM112",
+        "updated": "Última actualización: 12 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"mb-3\">SIM112 es un simulador didáctico de atención de llamadas de emergencia al 112. Esta política explica qué datos trata la aplicación.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Datos que Recopilamos",
+            "body": "<p class=\"text-muted-foreground mb-3\"><strong>Ninguno.</strong> SIM112 no tiene cuentas, no pide datos personales y no envía información a ningún servidor de Rasgo Media ni de terceros.</p><p class=\"text-muted-foreground\">Lo único que se guarda es tu progreso y tus preferencias (por ejemplo, el idioma o los casos completados), <strong>exclusivamente en tu dispositivo</strong>. Se elimina al desinstalar la app.</p>"
+          },
+          {
+            "h2": "3. Permisos de la Aplicación",
+            "body": "<p class=\"text-muted-foreground mb-2\">SIM112 <strong>NO solicita</strong> ni utiliza:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Micrófono ni cámara</li><li>Ubicación</li><li>Contactos, fotos ni archivos</li><li>Identificador de publicidad</li></ul><p class=\"text-muted-foreground\">Las llamadas y las voces del simulador son ficticias y están grabadas dentro de la propia app. No se llama a ningún número real: <strong>SIM112 no es un servicio de emergencias</strong> y, ante una emergencia real, debes llamar al 112.</p>"
+          },
+          {
+            "h2": "4. Cookies, Analítica y Publicidad",
+            "body": "<p class=\"text-muted-foreground\">SIM112 no utiliza cookies, analítica, rastreo ni anuncios, y no contiene compras integradas ni SDK de terceros que recopilen datos.</p>"
+          },
+          {
+            "h2": "5. Enlaces Externos",
+            "body": "<p class=\"text-muted-foreground\">Si abres un enlace desde la app (por ejemplo, esta política o nuestro sitio web), se abre en tu navegador, que se rige por sus propias políticas. No recibimos información de esas visitas más allá de lo que registre habitualmente el servidor web.</p>"
+          },
+          {
+            "h2": "6. Menores",
+            "body": "<p class=\"text-muted-foreground\">SIM112 no recopila datos de ninguna persona, incluidos los menores de edad. El contenido simula situaciones de emergencia con fines formativos.</p>"
+          },
+          {
+            "h2": "7. Cambios a Esta Política",
+            "body": "<p class=\"text-muted-foreground\">Si la aplicación cambia la forma de tratar datos, actualizaremos esta página e indicaremos la fecha de la última actualización.</p>"
+          },
+          {
+            "h2": "8. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "SIM112 · Rasgo Media"
+      },
+      {
+        "id": "stampo",
+        "name": "Stampo",
+        "updated": "Última actualización: 12 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Stampo es una app de cámara que sella cada foto o vídeo con fecha, hora y ubicación, y los ordena en carpetas. Esta política explica qué datos trata.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Datos que se quedan en tu móvil",
+            "body": "<p class=\"text-muted-foreground mb-3\">Las fotos y vídeos, sus sellos (fecha, coordenadas y dirección), los códigos de carpeta y tus ajustes se guardan <strong>solo en tu dispositivo</strong>. No hay cuentas ni registro, y Rasgo Media no recibe tus capturas ni sus datos. Se eliminan al borrar el contenido o desinstalar la app.</p>"
+          },
+          {
+            "h2": "3. Conexiones a Internet",
+            "body": "<p class=\"text-muted-foreground mb-3\">Stampo se conecta a Internet únicamente para dos cosas:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Hora de red:</span> consulta la hora a servicios públicos (Cloudflare, Apple o Google) para que la marca de tiempo no dependa del reloj del móvil. Solo se pide la hora; no se envía ningún dato tuyo, aunque estos servicios ven, como cualquier web, tu dirección IP.</li><li><span class=\"font-semibold text-foreground\">Dirección de la captura:</span> para convertir las coordenadas en una dirección, envía las <strong>coordenadas</strong> de la captura al servicio de geocodificación de Google (Google Maps Platform) o, como alternativa, al de OpenStreetMap (Nominatim). No se envía ninguna foto ni otro dato personal, y las direcciones ya resueltas se guardan en caché en tu móvil.</li></ul><p class=\"text-muted-foreground\">Sin conexión, la app sigue funcionando con las coordenadas.</p>"
+          },
+          {
+            "h2": "4. Permisos de la Aplicación",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Cámara:</span> para hacer fotos y vídeos; solo se usa con la pantalla de captura abierta.</li><li><span class=\"font-semibold text-foreground\">Ubicación (solo mientras usas la app):</span> para sellar las coordenadas y la dirección y archivar en carpetas. Nunca se usa en segundo plano.</li><li><span class=\"font-semibold text-foreground\">Internet:</span> para las dos conexiones descritas arriba.</li></ul><p class=\"text-muted-foreground\">Stampo <strong>NO solicita</strong> micrófono, contactos ni acceso general a tus archivos.</p>"
+          },
+          {
+            "h2": "5. Anuncios, Analítica y Rastreo",
+            "body": "<p class=\"text-muted-foreground\">Stampo no tiene publicidad, analítica ni seguimiento, ni vende ni comparte datos con terceros más allá de las consultas descritas arriba.</p>"
+          },
+          {
+            "h2": "6. Compartir",
+            "body": "<p class=\"text-muted-foreground\">Cuando compartes una foto, se envía a través de la app que elijas (correo, mensajería, etc.). Rasgo Media no recibe copia.</p>"
+          },
+          {
+            "h2": "7. Menores",
+            "body": "<p class=\"text-muted-foreground\">Stampo no está dirigida a menores de 13 años y no recoge datos de nadie.</p>"
+          },
+          {
+            "h2": "8. Cambios a Esta Política",
+            "body": "<p class=\"text-muted-foreground\">Si cambia el tratamiento de datos, actualizaremos esta página y su fecha.</p>"
+          },
+          {
+            "h2": "9. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Stampo · Rasgo Media"
+      },
+      {
+        "id": "dache",
+        "name": "Dache",
+        "updated": "Última actualización: 28 de septiembre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Dache es una app que ayuda a adultos con TDA a arrancar tareas, ver pasar el tiempo y recuperar la calma. Está pensada para <strong>no recoger datos personales</strong>.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Lo que se queda en tu móvil",
+            "body": "<p class=\"text-muted-foreground\">Tus tareas y sus pasos, tus registros de ánimo y energía con sus notas, el temporizador y tus ajustes se guardan <strong>solo en tu dispositivo</strong>. No hay cuentas ni registro, y no se envían a ningún servidor. Si desinstalas la app, se borran.</p>"
+          },
+          {
+            "h2": "3. La IA en la nube (opcional)",
+            "body": "<p class=\"text-muted-foreground mb-3\">Por defecto, «Sugerir pasos» funciona <strong>sin conexión</strong>, con plantillas incluidas en la app. Si en Ajustes eliges <em>En la nube</em> y aceptas el aviso, cada vez que pides pasos se envía <strong>únicamente el texto de esa tarea</strong>:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>primero al servidor de Rasgo Media (alojado en Vercel), que no guarda el texto;</li><li>y de ahí a <strong>DeepSeek</strong>, un proveedor de inteligencia artificial que procesa los datos en <strong>China</strong>, para generar los pasos.</li></ul><p class=\"text-muted-foreground\">Nunca se envían tu ánimo, tus notas ni ningún otro dato. Para limitar abusos, el servidor usa tu dirección IP de forma temporal (un contador en memoria de una hora) y la plataforma de alojamiento puede registrar datos técnicos de la conexión, como cualquier web. Puedes volver al modo sin conexión cuando quieras.</p>"
+          },
+          {
+            "h2": "4. Lo que Dache no hace",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>No tiene publicidad, analítica ni seguimiento.</li><li>No vende ni comparte datos con terceros, aparte del envío opcional descrito arriba.</li><li>No pide acceso a ubicación, cámara, micrófono, contactos ni fotos.</li></ul>"
+          },
+          {
+            "h2": "5. Permisos",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Notificaciones:</span> para avisarte cuando termina el temporizador; se programan en el propio móvil.</li><li><span class=\"font-semibold text-foreground\">Modificar ajustes del sistema</span> (solo Android y solo si usas «Usar como tono»): para poner un sonido de Dache como tono.</li></ul>"
+          },
+          {
+            "h2": "6. Menores y salud",
+            "body": "<p class=\"text-muted-foreground mb-3\">Dache está pensada para personas adultas y no está dirigida a menores.</p><p class=\"text-muted-foreground\">Es una ayuda para organizarte y calmarte; no es un tratamiento ni sustituye la atención de un profesional sanitario.</p>"
+          },
+          {
+            "h2": "7. Tus derechos",
+            "body": "<p class=\"text-muted-foreground\">Como Rasgo Media no guarda datos tuyos en sus servidores, no hay nada que consultar ni borrar allí; lo que hay en tu móvil lo controlas tú. Para cualquier duda, escribe a <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a>.</p>"
+          },
+          {
+            "h2": "8. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Dache · Rasgo Media"
+      },
+      {
+        "id": "faziu",
+        "name": "Faziu",
+        "updated": "Última actualización: 28 de septiembre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Faziu lee tus papeles (cartas, facturas, notificaciones) y te explica qué dicen y qué plazos tienen.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. En resumen",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Faziu lee y analiza tus documentos <strong>en tu propio móvil</strong>.</li><li><strong>No hay cuentas</strong>, ni publicidad, ni analítica, ni rastreo entre apps.</li><li>Solo sale texto del móvil si <strong>tú pides</strong> la <em>interpretación en la nube</em> y has dado tu permiso. Antes de enviarlo se tapan los datos sensibles.</li></ul>"
+          },
+          {
+            "h2": "3. Datos que se quedan en tu móvil",
+            "body": "<p class=\"text-muted-foreground mb-3\">Las fotos, los PDF, el texto leído de ellos, su análisis y la carpeta de papeles se guardan en el almacenamiento privado de la app. No los enviamos a ningún servidor. Los avisos de plazo son notificaciones locales. Si borras un papel o desinstalas la app, se borran.</p><p class=\"text-muted-foreground\">Permisos: <strong>cámara</strong> (fotografiar el documento), <strong>fotos</strong> (elegir una imagen), <strong>archivos</strong> (abrir un PDF que elijas) y <strong>notificaciones</strong> (avisarte del plazo). Puedes retirarlos en los ajustes del móvil.</p>"
+          },
+          {
+            "h2": "4. Interpretación en la nube (opcional)",
+            "body": "<p class=\"text-muted-foreground mb-3\">Si el análisis del móvil no basta, puedes pulsar <em>Interpretación en la nube</em>. La primera vez te pedimos permiso expreso; sin él no se envía nada.</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Qué se envía:</span> el texto del documento, después de tapar automáticamente DNI/NIE/NIF, IBAN, tarjetas, CUPS, teléfonos, correos, matrículas, Seguridad Social (también la de EE. UU.), códigos postales, direcciones y los nombres tras etiquetas como «Nombre:» o «Domicilio:». Si haces una pregunta, también tu pregunta. <strong>No</strong> se envían la foto ni el PDF.</li><li><span class=\"font-semibold text-foreground\">Límite del tapado:</span> es automático y puede no detectar todos los datos. Si un documento es especialmente delicado, no uses la nube.</li><li><span class=\"font-semibold text-foreground\">A quién:</span> a nuestro servidor intermediario, alojado en Vercel Inc., que lo reenvía a <strong>DeepSeek</strong>, que lo trata en servidores de la <strong>República Popular China</strong>, fuera del Espacio Económico Europeo, conforme a su propia política.</li><li><span class=\"font-semibold text-foreground\">Para qué:</span> solo para devolverte la interpretación. No se usa para publicidad ni perfiles.</li><li><span class=\"font-semibold text-foreground\">Conservación:</span> nuestro servidor no guarda el texto; tu IP se usa solo en memoria para limitar abusos. DeepSeek puede conservar los datos según su política.</li><li><span class=\"font-semibold text-foreground\">Base legal:</span> tu consentimiento (art. 6.1.a del RGPD), incluido el de la transferencia internacional (art. 49.1.a). Puedes no usar nunca esta función: el resto de la app funciona igual.</li></ul>"
+          },
+          {
+            "h2": "5. Tus derechos",
+            "body": "<p class=\"text-muted-foreground\">Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. Como no guardamos tus documentos, en la práctica todo lo tuyo está en tu móvil. También puedes reclamar ante la Agencia Española de Protección de Datos (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "6. Menores",
+            "body": "<p class=\"text-muted-foreground\">Faziu no está dirigida a menores de 14 años.</p>"
+          },
+          {
+            "h2": "7. Cambios",
+            "body": "<p class=\"text-muted-foreground\">Si cambiamos esta política, actualizaremos la fecha y, si es importante, te lo indicaremos en la app.</p>"
+          },
+          {
+            "h2": "8. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Faziu · Rasgo Media"
+      },
+      {
+        "id": "flighterm",
+        "name": "Flighterm",
+        "updated": "Última actualización: 11 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Flighterm es un juego de control de tráfico aéreo en el que los pilotos cometen errores que debes detectar y corregir.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Datos que recopilamos",
+            "body": "<p class=\"text-muted-foreground mb-3\"><strong>Ninguno.</strong> Flighterm no tiene cuentas, anuncios ni analítica, y Rasgo Media no recibe datos de tu partida. Tu progreso y tus ajustes se guardan <strong>solo en tu dispositivo</strong> y se eliminan al desinstalar la app.</p>"
+          },
+          {
+            "h2": "3. Voz y micrófono (opcional)",
+            "body": "<p class=\"text-muted-foreground\">Si usas el botón del micrófono para dar órdenes por voz, la app pide permiso de micrófono y de reconocimiento de voz. <strong>Mientras mantienes pulsado el botón</strong>, el audio se procesa con el reconocimiento de voz de Apple (el dispositivo o los servidores de Apple, según tu configuración), conforme a la política de privacidad de Apple. Rasgo Media no recibe ni guarda ese audio. Cada orden por voz tiene alternativa táctil: puedes jugar sin dar ningún permiso.</p>"
+          },
+          {
+            "h2": "4. Anuncios y rastreo",
+            "body": "<p class=\"text-muted-foreground\">Flighterm no usa publicidad, rastreo ni SDK de terceros que recopilen datos, y no tiene compras integradas.</p>"
+          },
+          {
+            "h2": "5. Menores",
+            "body": "<p class=\"text-muted-foreground\">Flighterm no recopila datos de ninguna persona, incluidos los menores.</p>"
+          },
+          {
+            "h2": "6. Cambios",
+            "body": "<p class=\"text-muted-foreground\">Si cambia el tratamiento de datos, actualizaremos esta página y su fecha. Política específica del juego: <a href=\"https://flighterm.rasgomedia.es/privacidad\" class=\"text-primary\">flighterm.rasgomedia.es/privacidad</a>.</p>"
+          },
+          {
+            "h2": "7. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Flighterm · Rasgo Media"
+      },
+      {
+        "id": "siferti",
+        "name": "Siferti",
+        "updated": "Última actualización: 12 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Siferti es un calendario menstrual y de días fértiles para hasta 5 personas en un mismo móvil.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. En resumen",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Todo lo que registras se guarda <strong>solo en tu móvil</strong>.</li><li><strong>No recopilamos ningún dato</strong>: no hay cuentas, ni servidor, ni nube, ni publicidad, ni analítica, ni rastreo entre apps.</li><li>La app <strong>no necesita conexión a Internet</strong> y no envía nada a Rasgo Media ni a terceros.</li></ul>"
+          },
+          {
+            "h2": "3. Datos que se quedan en tu móvil",
+            "body": "<p class=\"text-muted-foreground mb-3\">Los nombres de las personas que añades, las fechas de la regla, la duración de los ciclos, las caritas y notas de cada día y los ajustes de avisos se guardan en el almacenamiento privado de la app. Son datos de salud, por eso no salen del dispositivo. Si borras una persona o desinstalas la app, se borran.</p><p class=\"text-muted-foreground\">Permisos: <strong>notificaciones</strong> (avisarte 2 días antes de la regla y, si lo activas, al empezar la ventana fértil) y <strong>reprogramar los avisos al reiniciar el móvil</strong>. Son avisos locales: no pasan por ningún servidor. Puedes retirar el permiso en los ajustes del móvil.</p>"
+          },
+          {
+            "h2": "4. Informe y copia de seguridad",
+            "body": "<p class=\"text-muted-foreground\">El informe de ciclos y la copia de seguridad solo salen del móvil cuando <strong>tú</strong> decides compartirlos o guardarlos, con la app o el lugar que elijas (WhatsApp, correo, tus archivos…). Rasgo Media no recibe copia. Desde ese momento los trata la app o servicio que hayas elegido, según su propia política.</p>"
+          },
+          {
+            "h2": "5. Aviso de salud",
+            "body": "<p class=\"text-muted-foreground\">Siferti da estimaciones a partir de tus registros y de promedios. No es un dispositivo médico, no hace diagnósticos, no es un método anticonceptivo y no sustituye el consejo de un profesional sanitario.</p>"
+          },
+          {
+            "h2": "6. Tus derechos",
+            "body": "<p class=\"text-muted-foreground\">Como no recibimos ni guardamos tus datos, todo lo tuyo está en tu móvil: puedes consultarlo, cambiarlo, exportarlo con la copia de seguridad o borrarlo desde la propia app. Para cualquier duda o para ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad, escribe a <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. También puedes reclamar ante la Agencia Española de Protección de Datos (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "7. Menores",
+            "body": "<p class=\"text-muted-foreground\">Siferti está pensada para personas adultas. Si alguien de la casa es menor, la persona adulta que gestiona el móvil decide qué se registra.</p>"
+          },
+          {
+            "h2": "8. Cambios",
+            "body": "<p class=\"text-muted-foreground\">Si cambiamos esta política, actualizaremos la fecha y, si es importante, te lo indicaremos en la app.</p>"
+          },
+          {
+            "h2": "9. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Siferti · Rasgo Media"
       }
     ]
   }
