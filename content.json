@@ -286,7 +286,7 @@
   "privacidad": {
     "meta": {
       "title": "Política de Privacidad — Rasgo Media",
-      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm, Siferti y Envlix."
+      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm, Siferti, Envlix y Crusinia."
     },
     "heading": "Política de Privacidad",
     "intro": "Esta página cubre la política de privacidad de todas las apps desarrolladas por Rasgo Media. Elige tu app en el índice o desplázate a su sección.",
@@ -670,6 +670,46 @@
           }
         ],
         "footerNote": "Envlix · Rasgo Media"
+      },
+      {
+        "id": "crusinia",
+        "name": "Crusinia",
+        "updated": "Última actualización: 18 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Crusinia es un simulador de pedidos de comida para drive-thru y a domicilio, disponible para Android, iOS y web (<a href=\"https://crusinia.rasgomedia.es\" class=\"text-primary\">crusinia.rasgomedia.es</a>). Tiene dos modos: en uno, la app toma un pedido simulado que haces por voz o tocando la carta; en el otro, de entrenamiento de camareros, un cliente simulado (voces pregrabadas incluidas en la propia app) dicta un pedido y tú montas la comanda.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. En resumen",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><strong>No recopilamos ningún dato</strong>: no hay cuentas ni inicio de sesión, ni servidor propio, ni analítica, ni publicidad, ni compras integradas.</li><li>Crusinia es una app de pago (alrededor de 1 €); la compra la gestiona la tienda (Google Play o App Store), no la app.</li><li>La app <strong>no envía nada a Rasgo Media</strong> ni a servidores nuestros: no tenemos backend.</li><li>El pago dentro de la simulación es <strong>ficticio</strong>: no se cobra dinero, no se piden datos de tarjeta y no se realiza ningún cargo.</li></ul>"
+          },
+          {
+            "h2": "3. Datos que se quedan en tu dispositivo",
+            "body": "<p class=\"text-muted-foreground mb-3\">Solo se guardan los ajustes de la app (idioma, moneda, tipo de impuesto sobre la venta, voz elegida y velocidad de habla) y las puntuaciones del entrenamiento, <strong>exclusivamente en tu dispositivo</strong>. No contienen datos personales y se eliminan al desinstalar la app.</p><p class=\"text-muted-foreground\">El nombre, la dirección y el teléfono que se escriben en un pedido a domicilio durante el entrenamiento son datos ficticios del ejercicio: se mantienen solo en memoria mientras dura ese ejercicio y no se guardan ni se envían.</p>"
+          },
+          {
+            "h2": "4. Voz y micrófono",
+            "body": "<p class=\"text-muted-foreground mb-3\">La app pide permiso de <strong>micrófono</strong> y de <strong>reconocimiento de voz</strong>, y solo los usa mientras pides o confirmas por voz. La voz se procesa con los servicios de reconocimiento de voz y de texto a voz del sistema operativo (Google en Android, Apple en iOS). Según la configuración de tu dispositivo, esos servicios del sistema pueden procesar el audio en los servidores de su proveedor, conforme a la política de privacidad de ese proveedor. La propia app <strong>nunca graba, guarda ni sube audio</strong>.</p><p class=\"text-muted-foreground\">El permiso de Internet existe únicamente para que las voces del sistema puedan usar sus variantes en línea. Todo lo que se hace por voz se puede hacer también tocando la pantalla.</p>"
+          },
+          {
+            "h2": "5. Cookies, Analítica y Publicidad",
+            "body": "<p class=\"text-muted-foreground\">Crusinia no utiliza cookies, analítica, rastreo ni anuncios, y no contiene SDK de terceros que recopilen datos.</p>"
+          },
+          {
+            "h2": "6. Menores",
+            "body": "<p class=\"text-muted-foreground\">Crusinia no recopila datos de ninguna persona, incluidos los menores. Los pedidos, los clientes y los pagos del simulador son ficticios.</p>"
+          },
+          {
+            "h2": "7. Cambios",
+            "body": "<p class=\"text-muted-foreground\">Si cambia el tratamiento de datos, actualizaremos esta página y su fecha.</p>"
+          },
+          {
+            "h2": "8. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Crusinia · Rasgo Media"
       }
     ]
   }
