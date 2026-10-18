@@ -554,7 +554,7 @@
       {
         "id": "flighterm",
         "name": "Flighterm",
-        "updated": "Última actualización: 11 de octubre de 2026",
+        "updated": "Última actualización: 18 de octubre de 2026",
         "sections": [
           {
             "h2": "1. Información General",
@@ -566,7 +566,7 @@
           },
           {
             "h2": "3. Voz y micrófono (opcional)",
-            "body": "<p class=\"text-muted-foreground\">Si usas el botón del micrófono para dar órdenes por voz, la app pide permiso de micrófono y de reconocimiento de voz. <strong>Mientras mantienes pulsado el botón</strong>, el audio se procesa con el reconocimiento de voz de Apple (el dispositivo o los servidores de Apple, según tu configuración), conforme a la política de privacidad de Apple. Rasgo Media no recibe ni guarda ese audio. Cada orden por voz tiene alternativa táctil: puedes jugar sin dar ningún permiso.</p>"
+            "body": "<p class=\"text-muted-foreground\">Si usas el botón del micrófono para dar órdenes por voz, la app pide permiso de micrófono y de reconocimiento de voz. <strong>Mientras mantienes pulsado el botón</strong>, el audio se procesa con el reconocimiento de voz del sistema: en iPhone, el de Apple (en el dispositivo o en los servidores de Apple, según tu configuración), conforme a la política de privacidad de Apple; en Android, el servicio de reconocimiento de voz del dispositivo (normalmente el de Google, en el dispositivo o en sus servidores, según tu configuración), conforme a la política de privacidad de su proveedor. Rasgo Media no recibe ni guarda ese audio. Cada orden por voz tiene alternativa táctil: puedes jugar sin dar ningún permiso.</p>"
           },
           {
             "h2": "4. Anuncios y rastreo",
