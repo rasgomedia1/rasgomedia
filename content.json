@@ -710,6 +710,50 @@
           }
         ],
         "footerNote": "Crusinai · Rasgo Media"
+      },
+      {
+        "id": "voxbel",
+        "name": "Voxbel",
+        "updated": "Última actualización: 28 de octubre de 2026",
+        "sections": [
+          {
+            "h2": "1. Información General",
+            "body": "<p class=\"text-muted-foreground mb-3\">Voxbel es una app de alarmas en árbol: cada alarma puede tener ramas que vuelven a sonar unos minutos después si no la cancelas, y cada alarma lee su texto en voz alta tras el tono.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. En resumen",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Tus alarmas, sus textos y sus adjuntos se guardan <strong>solo en tu móvil</strong>.</li><li><strong>No hay cuentas</strong>, ni publicidad, ni analítica, ni rastreo entre apps, ni compras integradas.</li><li>Voxbel es una app de pago (alrededor de 1 €); la compra la gestiona la tienda (Google Play o App Store), no la app.</li><li>Solo sale texto del móvil si <strong>tú pulsas «Crear con IA»</strong>: se envía la frase que has escrito o dictado para montar el plan.</li></ul>"
+          },
+          {
+            "h2": "3. Datos que se quedan en tu móvil",
+            "body": "<p class=\"text-muted-foreground mb-3\">Los planes de alarmas, sus horas, sus textos, las fotos, archivos, enlaces y dibujos que adjuntes, los tonos y los ajustes se guardan en el almacenamiento privado de la app. El audio de cada alarma (la voz que lee el texto) se genera en el propio móvil con su motor de voz. No los enviamos a ningún servidor. Si borras una alarma o desinstalas la app, se borran.</p>"
+          },
+          {
+            "h2": "4. Crear con IA (opcional)",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Qué se envía:</span> solo cuando pulsas «Crear con IA», el texto que has escrito o dictado (como máximo 600 caracteres), la hora elegida, el idioma de la app y la fecha y hora actuales. <strong>No</strong> se envían tus otras alarmas, ni los adjuntos, ni audio.</li><li><span class=\"font-semibold text-foreground\">A quién:</span> a nuestro servidor intermediario, alojado en Vercel Inc., que lo reenvía a <strong>DeepSeek</strong>, que lo trata en servidores de la <strong>República Popular China</strong>, fuera del Espacio Económico Europeo, conforme a su propia política.</li><li><span class=\"font-semibold text-foreground\">Para qué:</span> solo para devolverte el plan de alarmas. No se usa para publicidad ni perfiles.</li><li><span class=\"font-semibold text-foreground\">Conservación:</span> nuestro servidor no guarda ni registra el texto; tu IP se usa solo en memoria para limitar abusos. DeepSeek puede conservar los datos según su política.</li><li><span class=\"font-semibold text-foreground\">Base legal:</span> tu consentimiento al pulsar «Crear con IA» (art. 6.1.a del RGPD), incluido el de la transferencia internacional (art. 49.1.a). Puedes no usar nunca esta función: el botón «Crear» monta la alarma en el móvil sin enviar nada.</li></ul>"
+          },
+          {
+            "h2": "5. Permisos",
+            "body": "<p class=\"text-muted-foreground\"><span class=\"font-semibold text-foreground\">Micrófono</span> (dictar el texto de una alarma; el reconocimiento de voz lo hace el servicio de voz de tu móvil), <span class=\"font-semibold text-foreground\">notificaciones</span> y <span class=\"font-semibold text-foreground\">alarmas exactas</span> (que la alarma suene a su hora), <span class=\"font-semibold text-foreground\">pantalla completa</span> (mostrar la alarma sobre la pantalla de bloqueo), <span class=\"font-semibold text-foreground\">inicio automático y batería</span> (volver a programar las alarmas tras reiniciar y que el sistema no las retrase) e <span class=\"font-semibold text-foreground\">Internet</span> (solo para «Crear con IA»). Puedes retirarlos en los ajustes del móvil.</p>"
+          },
+          {
+            "h2": "6. Tus derechos",
+            "body": "<p class=\"text-muted-foreground\">Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. Como no guardamos tus alarmas, en la práctica todo lo tuyo está en tu móvil. También puedes reclamar ante la Agencia Española de Protección de Datos (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "7. Menores",
+            "body": "<p class=\"text-muted-foreground\">Voxbel no está dirigida a menores de 14 años.</p>"
+          },
+          {
+            "h2": "8. Cambios",
+            "body": "<p class=\"text-muted-foreground\">Si cambiamos esta política, actualizaremos la fecha y, si es importante, te lo indicaremos en la app.</p>"
+          },
+          {
+            "h2": "9. Contacto",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Voxbel · Rasgo Media"
       }
     ]
   }
