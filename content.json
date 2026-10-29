@@ -346,7 +346,7 @@
         "sections": [
           {
             "h2": "1. Información General",
-            "body": "<p class=\"mb-3\">CASTX es una app de simulación económica virtual con contabilidad cerrada (BANCA), para Android y iPhone. Esta política explica qué datos maneja y dónde quedan.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+            "body": "<p class=\"mb-3\">CASTX es una app de contabilidad personal para llevar el control de tus apuestas e inversiones (BANCA, importes, cuotas y resultados), para Android y iPhone. No permite apostar ni mover dinero real: es un registro que rellenas tú y no se conecta con casas de apuestas, bancos ni brókers. Esta política explica qué datos maneja y dónde quedan.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Desarrollador:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
           },
           {
             "h2": "2. Datos que Recopilamos",
@@ -362,7 +362,7 @@
           },
           {
             "h2": "5. Cómo Protegemos Tus Datos",
-            "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Almacenamiento local:</span> Todos los datos de tus simulaciones se almacenan solo en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Sin servidor:</span> CASTX no tiene servidor ni cuentas: no transmite tus datos a nadie</li><li><span class=\"font-semibold text-foreground\">Sin analítica ni anuncios:</span> No usamos herramientas de análisis ni SDKs publicitarios</li></ol>"
+            "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Almacenamiento local:</span> Todos los datos de tus registros se almacenan solo en tu dispositivo</li><li><span class=\"font-semibold text-foreground\">Sin servidor:</span> CASTX no tiene servidor ni cuentas: no transmite tus datos a nadie</li><li><span class=\"font-semibold text-foreground\">Sin analítica ni anuncios:</span> No usamos herramientas de análisis ni SDKs publicitarios</li></ol>"
           },
           {
             "h2": "6. Retención de Datos",
