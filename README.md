@@ -21,6 +21,7 @@ rasgomedia/
 │   ├── catalogo/page.jsx   # Catálogo de apps
 │   ├── contacto/page.jsx   # Contacto (formulario funcional)
 │   ├── privacidad/page.jsx # Política de privacidad
+│   ├── terminos/page.jsx   # Términos de uso (comunes + condiciones por app)
 │   ├── sitemap.js          # sitemap.xml
 │   └── robots.js           # robots.txt
 ├── components/

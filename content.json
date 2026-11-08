@@ -756,5 +756,70 @@
         "footerNote": "Voxbel · Rasgo Media"
       }
     ]
+  },
+  "terminos": {
+    "meta": {
+      "title": "Términos de Uso — Rasgo Media",
+      "description": "Términos y condiciones de uso de las apps de Rasgo Media."
+    },
+    "heading": "Términos de Uso",
+    "updated": "Última actualización: 8 de noviembre de 2026",
+    "intro": "Estos términos se aplican a todas las apps de Rasgo Media. Algunas apps tienen además condiciones propias, que aparecen al final de esta página, en la sección de cada app.",
+    "appsHeading": "Condiciones propias de cada app",
+    "sections": [
+      {
+        "h2": "1. Quién ofrece las apps",
+        "body": "<p class=\"text-muted-foreground mb-3\">Las apps las desarrolla y publica <strong>Rasgo Media</strong> (en adelante, «nosotros»).</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Correo de contacto:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+      },
+      {
+        "h2": "2. Aceptación",
+        "body": "<p class=\"text-muted-foreground mb-3\">Al descargar, instalar o usar una app de Rasgo Media aceptas estos términos. Si no estás de acuerdo con ellos, no uses la app y desinstálala.</p><p class=\"text-muted-foreground mb-3\">Si descargas la app desde la App Store de Apple o desde Google Play, también se aplican las condiciones de esa tienda. Para todo lo que dependa de la tienda (la compra, la descarga, los reembolsos y la cuenta), mandan las condiciones de la tienda.</p>"
+      },
+      {
+        "h2": "3. Licencia de uso",
+        "body": "<p class=\"text-muted-foreground mb-3\">Te damos una licencia personal, no exclusiva e intransferible para usar la app en los dispositivos que controles, según las reglas de uso de la tienda en la que la obtuviste. La app no se vende: se licencia. Todos los derechos que no se te conceden expresamente siguen siendo nuestros.</p><p class=\"text-muted-foreground mb-2\">No está permitido:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>copiar, alquilar, prestar, revender o redistribuir la app;</li><li>descompilarla, aplicarle ingeniería inversa o intentar obtener su código fuente, salvo en la medida en que la ley lo permita expresamente;</li><li>eliminar o alterar avisos de autoría, marcas o derechos;</li><li>usarla para fines ilegales o para dañar a otras personas, o para interferir en su funcionamiento o en los servicios que utiliza.</li></ul>"
+      },
+      {
+        "h2": "4. Precio, pagos y reembolsos",
+        "body": "<p class=\"text-muted-foreground mb-3\">Si la app es de pago, el precio es el que muestra la tienda en el momento de la compra. El cobro lo gestiona la tienda (Apple o Google): nosotros no recibimos ni guardamos tus datos de pago.</p><p class=\"text-muted-foreground mb-3\">Las solicitudes de reembolso se tramitan con la tienda, según sus políticas. Al tratarse de contenido digital que empieza a descargarse a petición tuya, la normativa de consumo puede limitar el derecho de desistimiento; esto no afecta a los derechos que la ley te reconozca si la app no funciona como se describe.</p>"
+      },
+      {
+        "h2": "5. Tus datos y tu contenido",
+        "body": "<p class=\"text-muted-foreground mb-3\">Lo que crees o guardes en la app es tuyo. Salvo que la sección propia de la app diga otra cosa, se guarda en tu dispositivo, así que te recomendamos tener copias de seguridad: si desinstalas la app o cambias de dispositivo, puede perderse.</p><p class=\"text-muted-foreground mb-3\">Cómo tratamos los datos personales se explica en nuestra <a href=\"/privacidad\" class=\"text-primary\">Política de Privacidad</a>, en la sección de cada app.</p>"
+      },
+      {
+        "h2": "6. Servicios de terceros",
+        "body": "<p class=\"text-muted-foreground mb-3\">Algunas funciones pueden depender de servicios de terceros (por ejemplo, la síntesis de voz del sistema, servicios de inteligencia artificial o de mapas). Cuando una app los use, se indica en su sección de privacidad. No controlamos esos servicios y pueden cambiar o dejar de estar disponibles; si eso ocurre, la función afectada puede funcionar de otra forma o dejar de estar disponible.</p>"
+      },
+      {
+        "h2": "7. Uso responsable",
+        "body": "<p class=\"text-muted-foreground mb-3\">Las apps son herramientas de ayuda. No sustituyen a un profesional (médico, legal, financiero ni de ningún otro tipo) ni a los servicios de emergencia. Su funcionamiento también depende del dispositivo y de su configuración (ahorro de batería, permisos, volumen, notificaciones o conexión), así que no las uses como único medio para algo en lo que un fallo pueda causar un daño grave.</p>"
+      },
+      {
+        "h2": "8. Actualizaciones y disponibilidad",
+        "body": "<p class=\"text-muted-foreground mb-3\">Podemos publicar actualizaciones que corrijan errores, mejoren la app o cambien, añadan o quiten funciones. Algunas actualizaciones pueden ser necesarias para seguir usando la app. No garantizamos que la app esté disponible en todos los países ni en todos los dispositivos, ni que se mantenga para siempre en las tiendas.</p>"
+      },
+      {
+        "h2": "9. Garantía y responsabilidad",
+        "body": "<p class=\"text-muted-foreground mb-3\">Trabajamos para que las apps funcionen bien, pero no podemos garantizar que estén libres de errores ni que funcionen sin interrupciones en todos los casos.</p><p class=\"text-muted-foreground mb-3\">En la medida en que la ley lo permita, no respondemos de los daños indirectos, de la pérdida de datos ni del lucro cesante que se deriven del uso o de la imposibilidad de usar la app. Nada de lo dispuesto en estos términos limita los derechos que la normativa de protección de los consumidores te reconoce ni nuestra responsabilidad en los casos en que la ley no permita limitarla (por ejemplo, en caso de dolo o negligencia grave).</p>"
+      },
+      {
+        "h2": "10. Propiedad intelectual",
+        "body": "<p class=\"text-muted-foreground mb-3\">La app, su código, su diseño, sus textos, sus imágenes, sus sonidos y sus marcas pertenecen a Rasgo Media o a sus licenciantes y están protegidos por la ley. Estos términos no te dan ningún derecho sobre ellos más allá de la licencia de uso del apartado 3.</p>"
+      },
+      {
+        "h2": "11. Fin de la licencia",
+        "body": "<p class=\"text-muted-foreground mb-3\">Puedes dejar de usar la app cuando quieras, desinstalándola. Si incumples estos términos de forma grave, la licencia termina automáticamente. Los apartados que por su naturaleza deban seguir aplicándose (propiedad intelectual, responsabilidad y ley aplicable) siguen vigentes después.</p>"
+      },
+      {
+        "h2": "12. Cambios en estos términos",
+        "body": "<p class=\"text-muted-foreground mb-3\">Podemos actualizar estos términos, por ejemplo cuando cambie la ley o la app. La fecha de la última actualización aparece al principio de esta página. Si el cambio es importante, lo indicaremos en la app o en la ficha de la tienda. Si sigues usando la app después de un cambio, aceptas los términos actualizados.</p>"
+      },
+      {
+        "h2": "13. Ley aplicable y reclamaciones",
+        "body": "<p class=\"text-muted-foreground mb-3\">Estos términos se rigen por la ley española. Si eres consumidor, también te protegen las normas imperativas de tu país de residencia, y puedes acudir a los tribunales de tu domicilio.</p><p class=\"text-muted-foreground mb-3\">Antes de reclamar, escríbenos a <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a>: intentaremos resolverlo contigo.</p>"
+      }
+    ],
+    "apps": []
   }
 }

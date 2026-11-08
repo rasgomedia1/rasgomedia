@@ -32,6 +32,7 @@ el content.json con estos cambios"). Las dos excepciones son:
 - Catálogo → `/catalogo`
 - Contacto → `/contacto`
 - Privacidad → `/privacidad`
+- Términos de uso → `/terminos` (comunes + `terminos.apps[]` por app, como privacidad)
 
 ---
 
