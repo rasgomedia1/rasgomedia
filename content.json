@@ -286,7 +286,7 @@
   "privacidad": {
     "meta": {
       "title": "Política de Privacidad — Rasgo Media",
-      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm, Siferti, Envlix y Crusinai."
+      "description": "Política de privacidad de las apps de Rasgo Media: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm, Siferti, Envlix, Crusinai, Voxbel."
     },
     "heading": "Política de Privacidad",
     "intro": "Esta página cubre la política de privacidad de todas las apps desarrolladas por Rasgo Media. Elige tu app en el índice o desplázate a su sección.",
@@ -653,7 +653,7 @@
             "body": "<p class=\"text-muted-foreground\">El reporte del mes y la copia de seguridad solo salen del móvil cuando <strong>tú</strong> decides compartirlos o guardarlos, con la app o el lugar que elijas (WhatsApp, correo, tus archivos…). Rasgo Media no recibe copia. Desde ese momento los trata la app o servicio que hayas elegido, según su propia política.</p>"
           },
           {
-            "h2": "6. Tus derechos",
+            "h2": "5. Tus derechos",
             "body": "<p class=\"text-muted-foreground\">Como no recibimos ni guardamos tus datos, todo lo tuyo está en tu móvil: puedes consultarlo, cambiarlo, exportarlo con la copia de seguridad o borrarlo desde la propia app. Para cualquier duda o para ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad, escribe a <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. También puedes reclamar ante la Agencia Española de Protección de Datos (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
           },
           {
@@ -661,11 +661,11 @@
             "body": "<p class=\"text-muted-foreground\">Envlix está pensada para personas adultas.</p>"
           },
           {
-            "h2": "8. Cambios",
+            "h2": "7. Cambios",
             "body": "<p class=\"text-muted-foreground\">Si cambiamos esta política, actualizaremos la fecha y, si es importante, te lo indicaremos en la app.</p>"
           },
           {
-            "h2": "9. Contacto",
+            "h2": "8. Contacto",
             "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Sitio web:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
           }
         ],
@@ -674,7 +674,7 @@
       {
         "id": "crusinai",
         "name": "Crusinai",
-        "updated": "Última actualización: 18 de octubre de 2026",
+        "updated": "Última actualización: 8 de noviembre de 2026",
         "sections": [
           {
             "h2": "1. Información General",
@@ -682,7 +682,7 @@
           },
           {
             "h2": "2. En resumen",
-            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><strong>No recopilamos ningún dato</strong>: no hay cuentas ni inicio de sesión, ni servidor propio, ni analítica, ni publicidad, ni compras integradas.</li><li>Crusinai es una app de pago (alrededor de 1 €); la compra la gestiona la tienda (Google Play o App Store), no la app.</li><li>La app <strong>no envía nada a Rasgo Media</strong> ni a servidores nuestros: no tenemos backend.</li><li>El pago dentro de la simulación es <strong>ficticio</strong>: no se cobra dinero, no se piden datos de tarjeta y no se realiza ningún cargo.</li></ul>"
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><strong>No recopilamos ningún dato</strong>: no hay cuentas ni inicio de sesión, ni servidor propio, ni analítica, ni publicidad, ni compras integradas.</li><li>Crusinai es una app de pago; la compra la gestiona la tienda (Google Play o App Store), no la app.</li><li>La app <strong>no envía nada a Rasgo Media</strong> ni a servidores nuestros: no tenemos backend.</li><li>El pago dentro de la simulación es <strong>ficticio</strong>: no se cobra dinero, no se piden datos de tarjeta y no se realiza ningún cargo.</li></ul>"
           },
           {
             "h2": "3. Datos que se quedan en tu dispositivo",
@@ -714,7 +714,7 @@
       {
         "id": "voxbel",
         "name": "Voxbel",
-        "updated": "Última actualización: 28 de octubre de 2026",
+        "updated": "Última actualización: 8 de noviembre de 2026",
         "sections": [
           {
             "h2": "1. Información General",
@@ -722,19 +722,19 @@
           },
           {
             "h2": "2. En resumen",
-            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Tus alarmas, sus textos y sus adjuntos se guardan <strong>solo en tu móvil</strong>.</li><li><strong>No hay cuentas</strong>, ni publicidad, ni analítica, ni rastreo entre apps, ni compras integradas.</li><li>Voxbel es una app de pago (alrededor de 1 €); la compra la gestiona la tienda (Google Play o App Store), no la app.</li><li>Solo sale texto del móvil si <strong>tú pulsas «Crear con IA»</strong>: se envía la frase que has escrito o dictado para montar el plan.</li></ul>"
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Tus alarmas, sus textos y sus adjuntos se guardan <strong>solo en tu móvil</strong>.</li><li><strong>No hay cuentas</strong>, ni publicidad, ni analítica, ni rastreo entre apps, ni compras integradas.</li><li>Voxbel es una app de pago; la compra la gestiona la tienda (Google Play o App Store), no la app.</li><li>Solo sale texto del móvil si <strong>tú pulsas «Procesar con iA»</strong>: se envía la frase que has escrito o dictado para montar la alarma.</li></ul>"
           },
           {
             "h2": "3. Datos que se quedan en tu móvil",
-            "body": "<p class=\"text-muted-foreground mb-3\">Los planes de alarmas, sus horas, sus textos, las fotos, archivos, enlaces y dibujos que adjuntes, los tonos y los ajustes se guardan en el almacenamiento privado de la app. El audio de cada alarma (la voz que lee el texto) se genera en el propio móvil con su motor de voz. No los enviamos a ningún servidor. Si borras una alarma o desinstalas la app, se borran.</p>"
+            "body": "<p class=\"text-muted-foreground mb-3\">Tus alarmas, sus horas, sus textos, las fotos, archivos, enlaces y dibujos que adjuntes, los tonos y los ajustes se guardan en el almacenamiento privado de la app. El audio de cada alarma (la voz que lee el texto) se genera en el propio móvil con su motor de voz. No los enviamos a ningún servidor. Si borras una alarma o desinstalas la app, se borran.</p>"
           },
           {
-            "h2": "4. Crear con IA (opcional)",
-            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Qué se envía:</span> solo cuando pulsas «Crear con IA», el texto que has escrito o dictado (como máximo 600 caracteres), la hora elegida, el idioma de la app y la fecha y hora actuales. <strong>No</strong> se envían tus otras alarmas, ni los adjuntos, ni audio.</li><li><span class=\"font-semibold text-foreground\">A quién:</span> a nuestro servidor intermediario, alojado en Vercel Inc., que lo reenvía a <strong>DeepSeek</strong>, que lo trata en servidores de la <strong>República Popular China</strong>, fuera del Espacio Económico Europeo, conforme a su propia política.</li><li><span class=\"font-semibold text-foreground\">Para qué:</span> solo para devolverte el plan de alarmas. No se usa para publicidad ni perfiles.</li><li><span class=\"font-semibold text-foreground\">Conservación:</span> nuestro servidor no guarda ni registra el texto; tu IP se usa solo en memoria para limitar abusos. DeepSeek puede conservar los datos según su política.</li><li><span class=\"font-semibold text-foreground\">Base legal:</span> tu consentimiento al pulsar «Crear con IA» (art. 6.1.a del RGPD), incluido el de la transferencia internacional (art. 49.1.a). Puedes no usar nunca esta función: el botón «Crear» monta la alarma en el móvil sin enviar nada.</li></ul>"
+            "h2": "4. Procesar con iA (opcional)",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Qué se envía:</span> solo cuando pulsas «Procesar con iA», el texto que has escrito o dictado (como máximo 600 caracteres), la hora elegida, el idioma de la app y la fecha y hora actuales. <strong>No</strong> se envían tus otras alarmas, ni los adjuntos, ni audio.</li><li><span class=\"font-semibold text-foreground\">A quién:</span> a nuestro servidor intermediario, alojado en Vercel Inc., que lo reenvía a <strong>DeepSeek</strong>, que lo trata en servidores de la <strong>República Popular China</strong>, fuera del Espacio Económico Europeo, conforme a su propia política.</li><li><span class=\"font-semibold text-foreground\">Para qué:</span> solo para devolverte la alarma. No se usa para publicidad ni perfiles.</li><li><span class=\"font-semibold text-foreground\">Conservación:</span> nuestro servidor no guarda ni registra el texto; tu IP se usa solo en memoria para limitar abusos. DeepSeek puede conservar los datos según su política.</li><li><span class=\"font-semibold text-foreground\">Base legal:</span> tu consentimiento al pulsar «Procesar con iA» (art. 6.1.a del RGPD), incluido el de la transferencia internacional (art. 49.1.a). Puedes no usar nunca esta función: el botón «Crear» monta la alarma en el móvil sin enviar nada.</li></ul>"
           },
           {
             "h2": "5. Permisos",
-            "body": "<p class=\"text-muted-foreground\"><span class=\"font-semibold text-foreground\">Micrófono</span> (dictar el texto de una alarma; el reconocimiento de voz lo hace el servicio de voz de tu móvil), <span class=\"font-semibold text-foreground\">notificaciones</span> y <span class=\"font-semibold text-foreground\">alarmas exactas</span> (que la alarma suene a su hora), <span class=\"font-semibold text-foreground\">pantalla completa</span> (mostrar la alarma sobre la pantalla de bloqueo), <span class=\"font-semibold text-foreground\">inicio automático y batería</span> (volver a programar las alarmas tras reiniciar y que el sistema no las retrase) e <span class=\"font-semibold text-foreground\">Internet</span> (solo para «Crear con IA»). Puedes retirarlos en los ajustes del móvil.</p>"
+            "body": "<p class=\"text-muted-foreground\"><span class=\"font-semibold text-foreground\">Micrófono</span> (dictar el texto de una alarma; el reconocimiento de voz lo hace el servicio de voz de tu móvil), <span class=\"font-semibold text-foreground\">notificaciones</span> y <span class=\"font-semibold text-foreground\">alarmas exactas</span> (que la alarma suene a su hora), <span class=\"font-semibold text-foreground\">pantalla completa</span> (mostrar la alarma sobre la pantalla de bloqueo), <span class=\"font-semibold text-foreground\">inicio automático y batería</span> (volver a programar las alarmas tras reiniciar y que el sistema no las retrase) e <span class=\"font-semibold text-foreground\">Internet</span> (solo para «Procesar con iA»). Puedes retirarlos en los ajustes del móvil.</p>"
           },
           {
             "h2": "6. Tus derechos",
@@ -755,7 +755,11 @@
         ],
         "footerNote": "Voxbel · Rasgo Media"
       }
-    ]
+    ],
+    "langLink": {
+      "label": "English",
+      "href": "/privacy"
+    }
   },
   "terminos": {
     "meta": {
@@ -818,6 +822,557 @@
       {
         "h2": "13. Ley aplicable y reclamaciones",
         "body": "<p class=\"text-muted-foreground mb-3\">Estos términos se rigen por la ley española. Si eres consumidor, también te protegen las normas imperativas de tu país de residencia, y puedes acudir a los tribunales de tu domicilio.</p><p class=\"text-muted-foreground mb-3\">Antes de reclamar, escríbenos a <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a>: intentaremos resolverlo contigo.</p>"
+      }
+    ],
+    "apps": [],
+    "langLink": {
+      "label": "English",
+      "href": "/terms"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy — Rasgo Media",
+      "description": "Privacy policy for the Rasgo Media apps: Graphed, CASTX, SIM112, Stampo, Dache, Faziu, Flighterm, Siferti, Envlix, Crusinai, Voxbel."
+    },
+    "heading": "Privacy Policy",
+    "intro": "This page covers the privacy policy of every app developed by Rasgo Media. Pick your app in the index or scroll to its section.",
+    "langLink": {
+      "label": "Español",
+      "href": "/privacidad"
+    },
+    "apps": [
+      {
+        "id": "graphed",
+        "name": "Graphed",
+        "updated": "Last updated: July 2, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"mb-3\">Graphed is an interactive mobile app for creating and managing math graphs. This privacy policy explains how we handle your personal data.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> RasgoMedia</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Data We Collect",
+            "body": "<h3 class=\"font-semibold mb-2\">2.1 Local Data (SQLite)</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Graphs you create:</span> names, variables, data points (x, y)</li><li><span class=\"font-semibold text-foreground\">App settings:</span> user preferences</li><li><span class=\"font-semibold text-foreground\">Graph history:</span> information about previous graphs</li></ul><p class=\"text-muted-foreground mb-4\"><span class=\"font-semibold text-foreground\">Storage:</span> All of this data is stored <strong>only on your device</strong> in a local SQLite database. It is not sent to our servers.</p><h3 class=\"font-semibold mb-2\">2.2 Browsing Data</h3><p class=\"text-muted-foreground mb-4\">When you use the &quot;By RasgoMedia&quot; link to open https://rasgomedia.es/, your default browser opens. We do not collect any information about these visits.</p><h3 class=\"font-semibold mb-2\">2.3 Sharing Data</h3><p class=\"text-muted-foreground\">When you share a graph with the &quot;Share&quot; feature, the app creates a PNG image that is sent through the app you choose (WhatsApp, Gmail, etc.). RasgoMedia does not receive copies of this data.</p>"
+          },
+          {
+            "h2": "3. App Permissions",
+            "body": "<h3 class=\"font-semibold mb-2\">3.1 Permissions Used</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-4\"><li><span class=\"font-semibold text-foreground\">Local storage access:</span> to save and load graphs on your device</li><li><span class=\"font-semibold text-foreground\">Internet access:</span> to open web links (privacy policy, website)</li><li><span class=\"font-semibold text-foreground\">Sharing:</span> to let you share graphs with other apps</li></ul><h3 class=\"font-semibold mb-2\">3.2 Permissions NOT Used</h3><p class=\"text-muted-foreground mb-2\">Graphed <strong>does NOT request</strong> or use:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Microphone access</li><li>Camera access</li><li>Contacts access</li><li>Location access</li><li>Photo access (except for sharing)</li></ul>"
+          },
+          {
+            "h2": "4. Cookies and Tracking",
+            "body": "<p class=\"text-muted-foreground\">Graphed <strong>does not use cookies</strong> or tracking technologies. We do not collect behavioral or browsing data inside the app.</p>"
+          },
+          {
+            "h2": "5. How We Protect Your Data",
+            "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Local storage:</span> all your graphs are stored only on your device</li><li><span class=\"font-semibold text-foreground\">No server:</span> we do not send personal data to external servers</li><li><span class=\"font-semibold text-foreground\">No analytics:</span> we do not use analytics tools that collect usage data</li></ol>"
+          },
+          {
+            "h2": "6. Data Retention",
+            "body": "<p class=\"text-muted-foreground\">Graphed data is kept for as long as the app is installed on your device. When you uninstall the app, all local data is deleted automatically.</p>"
+          },
+          {
+            "h2": "7. Your Rights",
+            "body": "<p class=\"text-muted-foreground mb-2\"><strong>You have the right to:</strong></p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Access your data (it is on your device)</li><li>Change your data (edit your graphs)</li><li>Delete your data (uninstall the app or delete individual graphs)</li><li>Export your data (share graphs as images)</li></ul>"
+          },
+          {
+            "h2": "8. Changes to This Policy",
+            "body": "<p class=\"text-muted-foreground\">We may update this privacy policy. We will let you know about significant changes through app updates.</p>"
+          },
+          {
+            "h2": "9. Contact",
+            "body": "<p class=\"text-muted-foreground mb-2\">If you have questions about this privacy policy:</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          },
+          {
+            "h2": "10. Legal Compliance",
+            "body": "<p class=\"text-muted-foreground mb-2\">This app complies with:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">GDPR (General Data Protection Regulation)</span> — EU</li><li>Spanish data protection laws</li><li>Google Play Store policies</li></ul>"
+          }
+        ],
+        "footerNote": "Graphed. Developed by RasgoMedia."
+      },
+      {
+        "id": "castx",
+        "name": "CASTX",
+        "updated": "Last updated: October 29, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"mb-3\">CASTX is a personal bookkeeping app for tracking your bets and investments (BANKROLL, amounts, odds and results), for Android and iPhone. It does not let you bet or move real money: it is a log you fill in yourself, and it does not connect to bookmakers, banks or brokers. This policy explains what data it handles and where that data stays.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Data We Collect",
+            "body": "<h3 class=\"font-semibold mb-2\">2.1 Local Data (SQLite)</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Sheets and events:</span> the sheet names, events, amounts, odds and statuses you enter</li><li><span class=\"font-semibold text-foreground\">BANKROLL and transactions:</span> the balance and manual transactions you record</li><li><span class=\"font-semibold text-foreground\">Custom icon:</span> if you pick a photo as the header icon, a copy is kept only inside the app</li></ul><p class=\"text-muted-foreground mb-4\"><span class=\"font-semibold text-foreground\">Storage:</span> All of this data is stored <strong>only on your device</strong> in a local SQLite database. It is not sent to our servers — CASTX has no backend and no internet connection.</p><h3 class=\"font-semibold mb-2\">2.2 Export Data</h3><p class=\"text-muted-foreground\">When you use &quot;Export as CSV&quot;, the app creates a local CSV file that is sent through the app you choose (WhatsApp, Gmail, etc.) using the system share sheet. RasgoMedia does not receive copies of this data.</p>"
+          },
+          {
+            "h2": "3. App Permissions",
+            "body": "<h3 class=\"font-semibold mb-2\">3.1 Permissions Used</h3><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-4\"><li><span class=\"font-semibold text-foreground\">Device authentication (fingerprint, Face ID, Touch ID or passcode):</span> to lock access to the app. CASTX never receives or stores your fingerprint, face or passcode: the operating system handles them.</li><li><span class=\"font-semibold text-foreground\">Photos (only if you change the icon):</span> the system photo picker opens and the app receives only the photo you pick. It never leaves your device.</li></ul><h3 class=\"font-semibold mb-2\">3.2 Permissions NOT Used</h3><p class=\"text-muted-foreground mb-2\">CASTX <strong>does NOT request</strong> or use:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Sending data over the internet (the app works 100% offline; the rasgomedia.es link just opens your browser)</li><li>Microphone access</li><li>Camera access</li><li>Contacts access</li><li>Location access</li></ul>"
+          },
+          {
+            "h2": "4. Cookies and Tracking",
+            "body": "<p class=\"text-muted-foreground\">CASTX <strong>does not use cookies</strong>, tracking technologies, ads or third-party analytics SDKs.</p>"
+          },
+          {
+            "h2": "5. How We Protect Your Data",
+            "body": "<ol class=\"list-decimal list-inside space-y-2 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Local storage:</span> all the data in your records is stored only on your device</li><li><span class=\"font-semibold text-foreground\">No server:</span> CASTX has no server and no accounts: it does not send your data to anyone</li><li><span class=\"font-semibold text-foreground\">No analytics or ads:</span> we do not use analytics tools or advertising SDKs</li></ol>"
+          },
+          {
+            "h2": "6. Data Retention",
+            "body": "<p class=\"text-muted-foreground\">CASTX data is kept for as long as the app is installed on your device. When you uninstall the app, all local data is deleted automatically.</p>"
+          },
+          {
+            "h2": "7. Your Rights",
+            "body": "<p class=\"text-muted-foreground mb-2\"><strong>You have the right to:</strong></p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li>Access your data (it is on your device)</li><li>Change your data (edit your sheets and events)</li><li>Delete your data (uninstall the app or delete individual sheets/events)</li><li>Export your data (&quot;Export as CSV&quot;)</li></ul>"
+          },
+          {
+            "h2": "8. Changes to This Policy",
+            "body": "<p class=\"text-muted-foreground\">We may update this privacy policy. We will let you know about significant changes through app updates.</p>"
+          },
+          {
+            "h2": "9. Contact",
+            "body": "<p class=\"text-muted-foreground mb-2\">If you have questions about this privacy policy:</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          },
+          {
+            "h2": "10. Legal Compliance",
+            "body": "<p class=\"text-muted-foreground mb-2\">This app complies with:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">GDPR (General Data Protection Regulation)</span> — EU</li><li>Spanish data protection laws</li><li>Google Play and Apple App Store policies</li></ul>"
+          }
+        ],
+        "footerNote": "CASTX. Developed by RasgoMedia."
+      },
+      {
+        "id": "sim112",
+        "name": "SIM112",
+        "updated": "Last updated: October 12, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"mb-3\">SIM112 is an educational simulator for handling 112 emergency calls. This policy explains what data the app handles.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Data We Collect",
+            "body": "<p class=\"text-muted-foreground mb-3\"><strong>None.</strong> SIM112 has no accounts, does not ask for personal data and does not send any information to Rasgo Media servers or to third parties.</p><p class=\"text-muted-foreground\">The only things saved are your progress and preferences (for example, the language or the cases you have completed), <strong>only on your device</strong>. They are deleted when you uninstall the app.</p>"
+          },
+          {
+            "h2": "3. App Permissions",
+            "body": "<p class=\"text-muted-foreground mb-2\">SIM112 <strong>does NOT request</strong> or use:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Microphone or camera</li><li>Location</li><li>Contacts, photos or files</li><li>Advertising ID</li></ul><p class=\"text-muted-foreground\">The calls and voices in the simulator are fictional and recorded inside the app itself. No real number is ever called: <strong>SIM112 is not an emergency service</strong>, and in a real emergency you must call your local emergency number (112 in Europe, 911 in the US).</p>"
+          },
+          {
+            "h2": "4. Cookies, Analytics and Ads",
+            "body": "<p class=\"text-muted-foreground\">SIM112 does not use cookies, analytics, tracking or ads, and it has no in-app purchases or third-party SDKs that collect data.</p>"
+          },
+          {
+            "h2": "5. External Links",
+            "body": "<p class=\"text-muted-foreground\">If you open a link from the app (for example, this policy or our website), it opens in your browser, which is governed by its own policies. We receive no information about those visits beyond what the web server normally logs.</p>"
+          },
+          {
+            "h2": "6. Children",
+            "body": "<p class=\"text-muted-foreground\">SIM112 does not collect data from anyone, including minors. The content simulates emergency situations for training purposes.</p>"
+          },
+          {
+            "h2": "7. Changes to This Policy",
+            "body": "<p class=\"text-muted-foreground\">If the app changes how it handles data, we will update this page and show the date of the last update.</p>"
+          },
+          {
+            "h2": "8. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "SIM112 · Rasgo Media"
+      },
+      {
+        "id": "stampo",
+        "name": "Stampo",
+        "updated": "Last updated: October 12, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Stampo is a camera app that stamps every photo or video with the date, time and location, and sorts them into folders. This policy explains what data it handles.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Data That Stays on Your Phone",
+            "body": "<p class=\"text-muted-foreground mb-3\">Photos and videos, their stamps (date, coordinates and address), folder codes and your settings are stored <strong>only on your device</strong>. There are no accounts or sign-ups, and Rasgo Media never receives your captures or their data. They are deleted when you delete the content or uninstall the app.</p>"
+          },
+          {
+            "h2": "3. Internet Connections",
+            "body": "<p class=\"text-muted-foreground mb-3\">Stampo connects to the internet for only two things:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Network time:</span> it asks public services (Cloudflare, Apple or Google) for the time so the timestamp does not depend on the phone's clock. Only the time is requested; none of your data is sent, although these services see your IP address, as any website does.</li><li><span class=\"font-semibold text-foreground\">Capture address:</span> to turn the coordinates into an address, it sends the capture's <strong>coordinates</strong> to Google's geocoding service (Google Maps Platform) or, as a fallback, to OpenStreetMap's (Nominatim). No photo or other personal data is sent, and addresses already looked up are cached on your phone.</li></ul><p class=\"text-muted-foreground\">Without a connection, the app keeps working with the coordinates.</p>"
+          },
+          {
+            "h2": "4. App Permissions",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Camera:</span> to take photos and videos; used only while the capture screen is open.</li><li><span class=\"font-semibold text-foreground\">Location (only while using the app):</span> to stamp the coordinates and address and to file captures into folders. It is never used in the background.</li><li><span class=\"font-semibold text-foreground\">Internet:</span> for the two connections described above.</li></ul><p class=\"text-muted-foreground\">Stampo <strong>does NOT request</strong> the microphone, contacts or general access to your files.</p>"
+          },
+          {
+            "h2": "5. Ads, Analytics and Tracking",
+            "body": "<p class=\"text-muted-foreground\">Stampo has no ads, analytics or tracking, and it does not sell or share data with third parties beyond the lookups described above.</p>"
+          },
+          {
+            "h2": "6. Sharing",
+            "body": "<p class=\"text-muted-foreground\">When you share a photo, it is sent through the app you choose (email, messaging, etc.). Rasgo Media does not receive a copy.</p>"
+          },
+          {
+            "h2": "7. Children",
+            "body": "<p class=\"text-muted-foreground\">Stampo is not directed to children under 13 and does not collect data from anyone.</p>"
+          },
+          {
+            "h2": "8. Changes to This Policy",
+            "body": "<p class=\"text-muted-foreground\">If the way we handle data changes, we will update this page and its date.</p>"
+          },
+          {
+            "h2": "9. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Stampo · Rasgo Media"
+      },
+      {
+        "id": "dache",
+        "name": "Dache",
+        "updated": "Last updated: September 28, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Dache is an app that helps adults with ADHD get started on tasks, see time passing and get back to calm. It is designed to <strong>collect no personal data</strong>.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. What Stays on Your Phone",
+            "body": "<p class=\"text-muted-foreground\">Your tasks and their steps, your mood and energy check-ins with their notes, the timer and your settings are stored <strong>only on your device</strong>. There are no accounts or sign-ups, and nothing is sent to any server. If you uninstall the app, they are deleted.</p>"
+          },
+          {
+            "h2": "3. Cloud AI (Optional)",
+            "body": "<p class=\"text-muted-foreground mb-3\">By default, the step suggestions work <strong>offline</strong>, with templates built into the app. If you choose the cloud option in Settings and accept the notice, each time you ask for steps <strong>only the text of that task</strong> is sent:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>first to the Rasgo Media server (hosted on Vercel), which does not store the text;</li><li>and from there to <strong>DeepSeek</strong>, an artificial intelligence provider that processes data in <strong>China</strong>, to generate the steps.</li></ul><p class=\"text-muted-foreground\">Your mood, notes and any other data are never sent. To limit abuse, the server uses your IP address temporarily (an in-memory counter that lasts one hour), and the hosting platform may log technical connection data, as any website does. You can switch back to offline mode at any time.</p>"
+          },
+          {
+            "h2": "4. What Dache Does Not Do",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>It has no ads, analytics or tracking.</li><li>It does not sell or share data with third parties, apart from the optional sending described above.</li><li>It does not ask for access to location, camera, microphone, contacts or photos.</li></ul>"
+          },
+          {
+            "h2": "5. Permissions",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Notifications:</span> to let you know when the timer ends; they are scheduled on the phone itself.</li><li><span class=\"font-semibold text-foreground\">Modify system settings</span> (Android only, and only if you set a sound as your ringtone): to set a Dache sound as a ringtone.</li></ul>"
+          },
+          {
+            "h2": "6. Children and Health",
+            "body": "<p class=\"text-muted-foreground mb-3\">Dache is designed for adults and is not directed to children.</p><p class=\"text-muted-foreground\">It is an aid to help you get organized and calm down; it is not a treatment and does not replace care from a health professional.</p>"
+          },
+          {
+            "h2": "7. Your Rights",
+            "body": "<p class=\"text-muted-foreground\">Because Rasgo Media does not keep any of your data on its servers, there is nothing there to access or delete; you control what is on your phone. For any questions, write to <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a>.</p>"
+          },
+          {
+            "h2": "8. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Dache · Rasgo Media"
+      },
+      {
+        "id": "faziu",
+        "name": "Faziu",
+        "updated": "Last updated: September 28, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Faziu reads your paperwork (letters, bills, official notices) and explains what it says and what deadlines it sets.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. In Short",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Faziu reads and analyzes your documents <strong>on your own phone</strong>.</li><li><strong>There are no accounts</strong>, ads, analytics or cross-app tracking.</li><li>Text only leaves your phone if <strong>you ask</strong> for the <em>cloud interpretation</em> and have given your permission. Sensitive data is masked before it is sent.</li></ul>"
+          },
+          {
+            "h2": "3. Data That Stays on Your Phone",
+            "body": "<p class=\"text-muted-foreground mb-3\">Photos, PDFs, the text read from them, their analysis and your paperwork folder are stored in the app's private storage. We do not send them to any server. Deadline reminders are local notifications. If you delete a document or uninstall the app, they are deleted.</p><p class=\"text-muted-foreground\">Permissions: <strong>camera</strong> (to photograph the document), <strong>photos</strong> (to pick an image), <strong>files</strong> (to open a PDF you choose) and <strong>notifications</strong> (to remind you of the deadline). You can revoke them in your phone's settings.</p>"
+          },
+          {
+            "h2": "4. Cloud Interpretation (Optional)",
+            "body": "<p class=\"text-muted-foreground mb-3\">If the on-device analysis is not enough, you can tap <em>Cloud interpretation</em>. The first time, we ask for your explicit permission; without it, nothing is sent.</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">What is sent:</span> the text of the document, after automatically masking Spanish ID numbers (DNI/NIE/NIF), IBANs, cards, CUPS supply codes, phone numbers, emails, license plates, Social Security numbers (including US ones), zip codes, addresses and names that follow labels such as «Nombre:» (Name) or «Domicilio:» (Address). If you ask a question, your question too. The photo and the PDF are <strong>not</strong> sent.</li><li><span class=\"font-semibold text-foreground\">Masking limits:</span> masking is automatic and may not catch every piece of data. If a document is especially sensitive, do not use the cloud.</li><li><span class=\"font-semibold text-foreground\">To whom:</span> to our intermediary server, hosted by Vercel Inc., which forwards it to <strong>DeepSeek</strong>, which processes it on servers in the <strong>People's Republic of China</strong>, outside the European Economic Area, under its own policy.</li><li><span class=\"font-semibold text-foreground\">What for:</span> only to send the interpretation back to you. It is not used for advertising or profiling.</li><li><span class=\"font-semibold text-foreground\">Retention:</span> our server does not store the text; your IP is used only in memory to limit abuse. DeepSeek may keep the data under its policy.</li><li><span class=\"font-semibold text-foreground\">Legal basis:</span> your consent (GDPR art. 6(1)(a)), including consent to the international transfer (art. 49(1)(a)). You never have to use this feature: the rest of the app works the same.</li></ul>"
+          },
+          {
+            "h2": "5. Your Rights",
+            "body": "<p class=\"text-muted-foreground\">You can exercise your rights of access, rectification, erasure, objection, restriction and portability by writing to <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. Because we do not keep your documents, in practice everything of yours is on your phone. You can also file a complaint with the Spanish Data Protection Agency (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "6. Children",
+            "body": "<p class=\"text-muted-foreground\">Faziu is not directed to children under 14.</p>"
+          },
+          {
+            "h2": "7. Changes",
+            "body": "<p class=\"text-muted-foreground\">If we change this policy, we will update the date and, if the change is significant, let you know in the app.</p>"
+          },
+          {
+            "h2": "8. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Faziu · Rasgo Media"
+      },
+      {
+        "id": "flighterm",
+        "name": "Flighterm",
+        "updated": "Last updated: October 18, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Flighterm is an air traffic control game in which pilots make mistakes that you have to spot and correct.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. Data We Collect",
+            "body": "<p class=\"text-muted-foreground mb-3\"><strong>None.</strong> Flighterm has no accounts, ads or analytics, and Rasgo Media receives no data about your game. Your progress and settings are stored <strong>only on your device</strong> and are deleted when you uninstall the app.</p>"
+          },
+          {
+            "h2": "3. Voice and Microphone (Optional)",
+            "body": "<p class=\"text-muted-foreground\">If you use the microphone button to give voice commands, the app asks for microphone and speech recognition permission. <strong>While you hold the button down</strong>, the audio is processed by the system's speech recognition: on iPhone, Apple's (on the device or on Apple's servers, depending on your settings), under Apple's privacy policy; on Android, the device's speech recognition service (usually Google's, on the device or on its servers, depending on your settings), under its provider's privacy policy. Rasgo Media never receives or stores that audio. Every voice command has a touch alternative: you can play without granting any permission.</p>"
+          },
+          {
+            "h2": "4. Ads and Tracking",
+            "body": "<p class=\"text-muted-foreground\">Flighterm does not use ads, tracking or third-party SDKs that collect data, and it has no in-app purchases.</p>"
+          },
+          {
+            "h2": "5. Children",
+            "body": "<p class=\"text-muted-foreground\">Flighterm does not collect data from anyone, including minors.</p>"
+          },
+          {
+            "h2": "6. Changes",
+            "body": "<p class=\"text-muted-foreground\">If the way we handle data changes, we will update this page and its date. Game-specific policy: <a href=\"https://flighterm.rasgomedia.es/privacidad\" class=\"text-primary\">flighterm.rasgomedia.es/privacidad</a>.</p>"
+          },
+          {
+            "h2": "7. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Flighterm · Rasgo Media"
+      },
+      {
+        "id": "siferti",
+        "name": "Siferti",
+        "updated": "Last updated: October 12, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Siferti is a period and fertile-days calendar for up to 5 people on the same phone.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. In Short",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Everything you log is stored <strong>only on your phone</strong>.</li><li><strong>We collect no data at all</strong>: no accounts, no server, no cloud, no ads, no analytics and no cross-app tracking.</li><li>The app <strong>does not need an internet connection</strong> and sends nothing to Rasgo Media or to third parties.</li></ul>"
+          },
+          {
+            "h2": "3. Data That Stays on Your Phone",
+            "body": "<p class=\"text-muted-foreground mb-3\">The names of the people you add, period dates, cycle lengths, each day's faces and notes, and reminder settings are stored in the app's private storage. This is health data, which is why it never leaves the device. If you delete a person or uninstall the app, it is deleted.</p><p class=\"text-muted-foreground\">Permissions: <strong>notifications</strong> (to remind you 2 days before your period and, if you turn it on, when the fertile window starts) and <strong>rescheduling reminders when the phone restarts</strong>. These are local reminders: they never go through a server. You can revoke the permission in your phone's settings.</p>"
+          },
+          {
+            "h2": "4. Report and Backup",
+            "body": "<p class=\"text-muted-foreground\">The cycle report and the backup only leave your phone when <strong>you</strong> decide to share or save them, with the app or place you choose (WhatsApp, email, your files…). Rasgo Media does not receive a copy. From then on, they are handled by the app or service you chose, under its own policy.</p>"
+          },
+          {
+            "h2": "5. Health Notice",
+            "body": "<p class=\"text-muted-foreground\">Siferti gives estimates based on your logs and on averages. It is not a medical device, does not make diagnoses, is not a method of contraception and does not replace advice from a health professional.</p>"
+          },
+          {
+            "h2": "6. Your Rights",
+            "body": "<p class=\"text-muted-foreground\">Because we neither receive nor store your data, everything of yours is on your phone: you can view it, change it, export it with the backup or delete it from the app itself. For any questions, or to exercise your rights of access, rectification, erasure, objection, restriction and portability, write to <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. You can also file a complaint with the Spanish Data Protection Agency (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "7. Children",
+            "body": "<p class=\"text-muted-foreground\">Siferti is designed for adults. If someone in the household is a minor, the adult who manages the phone decides what is logged.</p>"
+          },
+          {
+            "h2": "8. Changes",
+            "body": "<p class=\"text-muted-foreground\">If we change this policy, we will update the date and, if the change is significant, let you know in the app.</p>"
+          },
+          {
+            "h2": "9. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Siferti · Rasgo Media"
+      },
+      {
+        "id": "envlix",
+        "name": "Envlix",
+        "updated": "Last updated: October 12, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Envlix is a personal log of the money you send to other people (remittances): to whom, how much, how often and the monthly total.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. In Short",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Everything you log is stored <strong>only on your phone</strong>.</li><li><strong>We collect no data at all</strong>: no accounts, no server, no cloud, no ads, no analytics and no cross-app tracking.</li><li>The app <strong>does not need an internet connection</strong> and sends nothing to Rasgo Media or to third parties.</li><li>Envlix <strong>does not move money</strong>: it does not connect to banks or make payments; it only records the transfers you make on your own.</li></ul>"
+          },
+          {
+            "h2": "3. Data That Stays on Your Phone",
+            "body": "<p class=\"text-muted-foreground mb-3\">The recipients you add (name, phone number, address, account number, birthday, notes and an optional photo), the amount and date of each transfer, and the app settings are stored in the app's private storage. If you delete a recipient or uninstall the app, they are deleted.</p><p class=\"text-muted-foreground\">You pick a recipient's photo from your gallery; the app does not use the camera or read the rest of your photos. The <strong>fingerprint, face or PIN lock</strong> is optional and is checked by the phone's own system: the app only receives a &quot;yes&quot; or &quot;no&quot;, never your fingerprint or your code.</p>"
+          },
+          {
+            "h2": "4. Report and Backup",
+            "body": "<p class=\"text-muted-foreground\">The monthly report and the backup only leave your phone when <strong>you</strong> decide to share or save them, with the app or place you choose (WhatsApp, email, your files…). Rasgo Media does not receive a copy. From then on, they are handled by the app or service you chose, under its own policy.</p>"
+          },
+          {
+            "h2": "5. Your Rights",
+            "body": "<p class=\"text-muted-foreground\">Because we neither receive nor store your data, everything of yours is on your phone: you can view it, change it, export it with the backup or delete it from the app itself. For any questions, or to exercise your rights of access, rectification, erasure, objection, restriction and portability, write to <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. You can also file a complaint with the Spanish Data Protection Agency (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "6. Children",
+            "body": "<p class=\"text-muted-foreground\">Envlix is designed for adults.</p>"
+          },
+          {
+            "h2": "7. Changes",
+            "body": "<p class=\"text-muted-foreground\">If we change this policy, we will update the date and, if the change is significant, let you know in the app.</p>"
+          },
+          {
+            "h2": "8. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Envlix · Rasgo Media"
+      },
+      {
+        "id": "crusinai",
+        "name": "Crusinai",
+        "updated": "Last updated: November 8, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Crusinai is a food ordering simulator for drive-thru and delivery, available for Android, iOS and the web (<a href=\"https://crusinai.rasgomedia.es\" class=\"text-primary\">crusinai.rasgomedia.es</a>). It has two modes: in one, the app takes a simulated order that you place by voice or by tapping the menu; in the other, for training servers, a simulated customer (prerecorded voices built into the app) reads out an order and you build the ticket.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. In Short",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><strong>We collect no data at all</strong>: no accounts or sign-in, no server of our own, no analytics, no ads and no in-app purchases.</li><li>Crusinai is a paid app; the purchase is handled by the store (Google Play or the App Store), not by the app.</li><li>The app <strong>sends nothing to Rasgo Media</strong> or to any server of ours: we have no backend.</li><li>Payment inside the simulation is <strong>fictional</strong>: no money is charged, no card details are requested and no charge is ever made.</li></ul>"
+          },
+          {
+            "h2": "3. Data That Stays on Your Device",
+            "body": "<p class=\"text-muted-foreground mb-3\">The only things saved are the app settings (language, currency, sales tax type, chosen voice and speech rate) and your training scores, <strong>only on your device</strong>. They contain no personal data and are deleted when you uninstall the app.</p><p class=\"text-muted-foreground\">The name, address and phone number typed into a delivery order during training are fictional exercise data: they are kept only in memory for the length of that exercise and are never saved or sent.</p>"
+          },
+          {
+            "h2": "4. Voice and Microphone",
+            "body": "<p class=\"text-muted-foreground mb-3\">The app asks for <strong>microphone</strong> and <strong>speech recognition</strong> permission and uses them only while you order or confirm by voice. Voice is processed by the operating system's speech recognition and text-to-speech services (Google on Android, Apple on iOS). Depending on your device settings, those system services may process the audio on their provider's servers, under that provider's privacy policy. The app itself <strong>never records, stores or uploads audio</strong>.</p><p class=\"text-muted-foreground\">The internet permission exists only so the system voices can use their online variants. Everything you can do by voice you can also do by tapping the screen.</p>"
+          },
+          {
+            "h2": "5. Cookies, Analytics and Ads",
+            "body": "<p class=\"text-muted-foreground\">Crusinai does not use cookies, analytics, tracking or ads, and it contains no third-party SDKs that collect data.</p>"
+          },
+          {
+            "h2": "6. Children",
+            "body": "<p class=\"text-muted-foreground\">Crusinai does not collect data from anyone, including minors. The simulator's orders, customers and payments are fictional.</p>"
+          },
+          {
+            "h2": "7. Changes",
+            "body": "<p class=\"text-muted-foreground\">If the way we handle data changes, we will update this page and its date.</p>"
+          },
+          {
+            "h2": "8. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Crusinai · Rasgo Media"
+      },
+      {
+        "id": "voxbel",
+        "name": "Voxbel",
+        "updated": "Last updated: November 8, 2026",
+        "sections": [
+          {
+            "h2": "1. General Information",
+            "body": "<p class=\"text-muted-foreground mb-3\">Voxbel is a tree-style alarm app: each alarm can have branches that ring again a few minutes later if you don't cancel it, and each alarm reads its text aloud after the tone.</p><ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Developer:</span> Rasgo Media</li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+          },
+          {
+            "h2": "2. In Short",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>Your alarms, their texts and their attachments are stored <strong>only on your phone</strong>.</li><li><strong>There are no accounts</strong>, ads, analytics, cross-app tracking or in-app purchases.</li><li>Voxbel is a paid app; the purchase is handled by the store (Google Play or the App Store), not by the app.</li><li>Text only leaves your phone if <strong>you tap &quot;Process with AI&quot;</strong>: the sentence you typed or dictated is sent to build the alarm.</li></ul>"
+          },
+          {
+            "h2": "3. Data That Stays on Your Phone",
+            "body": "<p class=\"text-muted-foreground mb-3\">Your alarms, their times and texts, the photos, files, links and drawings you attach, the tones and the settings are stored in the app's private storage. The audio for each alarm (the voice that reads the text) is generated on the phone itself by its speech engine. We do not send them to any server. If you delete an alarm or uninstall the app, they are deleted.</p>"
+          },
+          {
+            "h2": "4. Process with AI (Optional)",
+            "body": "<ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">What is sent:</span> only when you tap &quot;Process with AI&quot;, the text you typed or dictated (up to 600 characters), the time you picked, the app language and the current date and time. Your other alarms, attachments and audio are <strong>not</strong> sent.</li><li><span class=\"font-semibold text-foreground\">To whom:</span> to our intermediary server, hosted by Vercel Inc., which forwards it to <strong>DeepSeek</strong>, which processes it on servers in the <strong>People's Republic of China</strong>, outside the European Economic Area, under its own policy.</li><li><span class=\"font-semibold text-foreground\">What for:</span> only to send the alarm back to you. It is not used for advertising or profiling.</li><li><span class=\"font-semibold text-foreground\">Retention:</span> our server neither stores nor logs the text; your IP is used only in memory to limit abuse. DeepSeek may keep the data under its policy.</li><li><span class=\"font-semibold text-foreground\">Legal basis:</span> your consent when you tap &quot;Process with AI&quot; (GDPR art. 6(1)(a)), including consent to the international transfer (art. 49(1)(a)). You never have to use this feature: the &quot;Create&quot; button builds the alarm on the phone without sending anything.</li></ul>"
+          },
+          {
+            "h2": "5. Permissions",
+            "body": "<p class=\"text-muted-foreground\"><span class=\"font-semibold text-foreground\">Microphone</span> (to dictate an alarm's text; speech recognition is done by your phone's voice service), <span class=\"font-semibold text-foreground\">notifications</span> and <span class=\"font-semibold text-foreground\">exact alarms</span> (so the alarm rings on time), <span class=\"font-semibold text-foreground\">full screen</span> (to show the alarm over the lock screen), <span class=\"font-semibold text-foreground\">autostart and battery</span> (to reschedule alarms after a restart and keep the system from delaying them) and <span class=\"font-semibold text-foreground\">internet</span> (only for &quot;Process with AI&quot;). You can revoke them in your phone's settings.</p>"
+          },
+          {
+            "h2": "6. Your Rights",
+            "body": "<p class=\"text-muted-foreground\">You can exercise your rights of access, rectification, erasure, objection, restriction and portability by writing to <a href=\"mailto:contacto@rasgomedia.es\" class=\"text-primary\">contacto@rasgomedia.es</a>. Because we do not keep your alarms, in practice everything of yours is on your phone. You can also file a complaint with the Spanish Data Protection Agency (<a href=\"https://www.aepd.es\" class=\"text-primary\">aepd.es</a>).</p>"
+          },
+          {
+            "h2": "7. Children",
+            "body": "<p class=\"text-muted-foreground\">Voxbel is not directed to children under 14.</p>"
+          },
+          {
+            "h2": "8. Changes",
+            "body": "<p class=\"text-muted-foreground\">If we change this policy, we will update the date and, if the change is significant, let you know in the app.</p>"
+          },
+          {
+            "h2": "9. Contact",
+            "body": "<ul class=\"space-y-1 text-muted-foreground\"><li><span class=\"font-semibold text-foreground\">Email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li></ul>"
+          }
+        ],
+        "footerNote": "Voxbel · Rasgo Media"
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Use — Rasgo Media",
+      "description": "Terms and conditions of use for the Rasgo Media apps."
+    },
+    "heading": "Terms of Use",
+    "updated": "Last updated: November 8, 2026",
+    "intro": "These terms apply to every Rasgo Media app. Some apps also have their own conditions, which appear at the end of this page, in each app's section.",
+    "appsHeading": "App-specific conditions",
+    "langLink": {
+      "label": "Español",
+      "href": "/terminos"
+    },
+    "sections": [
+      {
+        "h2": "1. Who Provides the Apps",
+        "body": "<p class=\"text-muted-foreground mb-3\">The apps are developed and published by <strong>Rasgo Media</strong> (&quot;we&quot;).</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li><span class=\"font-semibold text-foreground\">Website:</span> <a href=\"https://rasgomedia.es/\" class=\"text-primary\">https://rasgomedia.es/</a></li><li><span class=\"font-semibold text-foreground\">Contact email:</span> <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a></li></ul>"
+      },
+      {
+        "h2": "2. Acceptance",
+        "body": "<p class=\"text-muted-foreground mb-3\">By downloading, installing or using a Rasgo Media app, you accept these terms. If you do not agree with them, do not use the app and uninstall it.</p><p class=\"text-muted-foreground mb-3\">If you download the app from Apple's App Store or from Google Play, that store's terms also apply. For everything that depends on the store (the purchase, the download, refunds and your account), the store's terms govern.</p>"
+      },
+      {
+        "h2": "3. License to Use",
+        "body": "<p class=\"text-muted-foreground mb-3\">We grant you a personal, non-exclusive, non-transferable license to use the app on the devices you control, under the usage rules of the store you got it from. The app is licensed, not sold. All rights not expressly granted to you remain ours.</p><p class=\"text-muted-foreground mb-2\">You may not:</p><ul class=\"list-disc list-inside space-y-1 text-muted-foreground mb-3\"><li>copy, rent, lend, resell or redistribute the app;</li><li>decompile it, reverse engineer it or try to obtain its source code, except to the extent the law expressly allows;</li><li>remove or alter authorship, trademark or rights notices;</li><li>use it for illegal purposes, to harm other people, or to interfere with how it works or with the services it uses.</li></ul>"
+      },
+      {
+        "h2": "4. Price, Payments and Refunds",
+        "body": "<p class=\"text-muted-foreground mb-3\">If the app is paid, the price is the one the store shows at the time of purchase. Payment is handled by the store (Apple or Google): we never receive or store your payment details.</p><p class=\"text-muted-foreground mb-3\">Refund requests are handled by the store, under its policies. Because the app is digital content that starts downloading at your request, consumer law may limit the right of withdrawal; this does not affect the rights the law gives you if the app does not work as described.</p>"
+      },
+      {
+        "h2": "5. Your Data and Your Content",
+        "body": "<p class=\"text-muted-foreground mb-3\">What you create or save in the app is yours. Unless the app's own section says otherwise, it is stored on your device, so we recommend keeping backups: if you uninstall the app or change devices, it may be lost.</p><p class=\"text-muted-foreground mb-3\">How we handle personal data is explained in our <a href=\"/privacy\" class=\"text-primary\">Privacy Policy</a>, in each app's section.</p>"
+      },
+      {
+        "h2": "6. Third-Party Services",
+        "body": "<p class=\"text-muted-foreground mb-3\">Some features may depend on third-party services (for example, the system's text-to-speech, artificial intelligence services or map services). When an app uses them, this is stated in its privacy section. We do not control those services and they may change or stop being available; if that happens, the affected feature may work differently or stop being available.</p>"
+      },
+      {
+        "h2": "7. Responsible Use",
+        "body": "<p class=\"text-muted-foreground mb-3\">The apps are helper tools. They do not replace a professional (medical, legal, financial or any other kind) or emergency services. How they work also depends on your device and its settings (battery saver, permissions, volume, notifications or connection), so do not use them as your only means for anything where a failure could cause serious harm.</p>"
+      },
+      {
+        "h2": "8. Updates and Availability",
+        "body": "<p class=\"text-muted-foreground mb-3\">We may publish updates that fix bugs, improve the app, or change, add or remove features. Some updates may be required to keep using the app. We do not guarantee that the app will be available in every country or on every device, or that it will stay in the stores forever.</p>"
+      },
+      {
+        "h2": "9. Warranty and Liability",
+        "body": "<p class=\"text-muted-foreground mb-3\">We work to make the apps work well, but we cannot guarantee that they are free of errors or that they will work without interruption in every case.</p><p class=\"text-muted-foreground mb-3\">To the extent permitted by law, we are not liable for indirect damages, loss of data or loss of profits arising from the use of, or inability to use, the app. Nothing in these terms limits the rights that consumer protection law gives you, or our liability where the law does not allow it to be limited (for example, in cases of willful misconduct or gross negligence).</p>"
+      },
+      {
+        "h2": "10. Intellectual Property",
+        "body": "<p class=\"text-muted-foreground mb-3\">The app, its code, design, texts, images, sounds and trademarks belong to Rasgo Media or its licensors and are protected by law. These terms give you no rights to them beyond the license to use in section 3.</p>"
+      },
+      {
+        "h2": "11. End of the License",
+        "body": "<p class=\"text-muted-foreground mb-3\">You can stop using the app whenever you want by uninstalling it. If you seriously breach these terms, the license ends automatically. The sections that by their nature must keep applying (intellectual property, liability and governing law) remain in effect afterward.</p>"
+      },
+      {
+        "h2": "12. Changes to These Terms",
+        "body": "<p class=\"text-muted-foreground mb-3\">We may update these terms, for example when the law or the app changes. The date of the last update appears at the top of this page. If the change is significant, we will say so in the app or in the store listing. If you keep using the app after a change, you accept the updated terms.</p>"
+      },
+      {
+        "h2": "13. Governing Law and Complaints",
+        "body": "<p class=\"text-muted-foreground mb-3\">These terms are governed by Spanish law. If you are a consumer, you are also protected by the mandatory rules of your country of residence, and you may go to the courts where you live.</p><p class=\"text-muted-foreground mb-3\">Before filing a complaint, write to us at <a href=\"mailto:hola@rasgomedia.es\" class=\"text-primary\">hola@rasgomedia.es</a>: we will try to resolve it with you.</p>"
       }
     ],
     "apps": []

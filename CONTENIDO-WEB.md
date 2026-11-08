@@ -33,6 +33,7 @@ el content.json con estos cambios"). Las dos excepciones son:
 - Contacto → `/contacto`
 - Privacidad → `/privacidad`
 - Términos de uso → `/terminos` (comunes + `terminos.apps[]` por app, como privacidad)
+- Inglés: `/privacy` (`privacy`) y `/terms` (`terms`) en content.json, mismas apps y secciones que el español; al tocar un idioma, actualizar el otro
 
 ---
 
